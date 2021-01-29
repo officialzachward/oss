@@ -8,7 +8,7 @@ I was also able to join the discord #general channel and posted a greeting
 under the name *zach_*!
 ![Zachary](/labs/lab-01/images/discordchat.png)
 
-# Reading assignments - make sure to reflect on these in a lab1.md file in your repository
+# Reading assignments
 
 I have read the 10 criteria of Open Source Definition and understand why they are important. Further, I have
 read Eric Raymond's article, "How To Ask Questions The Smart Way" and understand why his points
@@ -19,11 +19,11 @@ also sabotage someone if he or she doesn't know its just a hack.
 
 I have also read chapter 3 of Free Culture.
 
-# Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
+**Takeaways from Chapter 3:**
 
 ...
 
-#Getting Familiar with Linux
+# Getting Familiar with Linux
 I have read the first chapter of *Beautiful Code* about the development and implementation of
 a very simple grep.
 
@@ -44,7 +44,7 @@ sudo snap install tree
 tree --help
 On WSL, it looks like it is already available https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tree
 Take a screenshot and add to lab01.md
-Regex
+# Regex
 
 In your Foundations of Computer Science class you learned about Regular expressions. (If you have not taken Foundations of Computer Science class, please talk to the instructor for an explanation). Please do the practice problems given here.
 
@@ -56,13 +56,13 @@ Do at least four problems on beginner level here.
 Take a screenshot and add to lab01.md
 (Optional But Recommended) Do problem 11 in adventofcode 2015 (You may use regular expression)
 
-Play with Snap or Blockly
+# Play with Snap or Blockly
 
 Create some thing using Snap or solve this using blockly
 Add documentation (screenshots) of your accomplishments to lab1.md
 Reflection
 
-Pick an Open Source Project that might be interesting to evaluate
+# Pick an Open Source Project that might be interesting to evaluate
 Start thinking/finding a problem/project that interests you
 Add a paragraph on how you are doing this activity to lab01.md
 Check out http://aosabook.org/en/index.html for a list of a number of open source projects and for a discussion of the architectures they use.

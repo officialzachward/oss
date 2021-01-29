@@ -3,7 +3,9 @@
 
 ## Bio
 (( Senior Computer Science student with an interest in web development
-and exploring new and popular frameworks. ))
+and exploring new and popular frameworks.
+Photo of Zachary ![Zachary](/labs/lab-01/images/me.jpg)
+))
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)

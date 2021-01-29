@@ -1,8 +1,9 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## (( Zachary Ward ))
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+(( Senior Computer Science student with an interest in web development
+and exploring new and popular frameworks. ))
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)

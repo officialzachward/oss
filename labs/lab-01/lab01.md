@@ -2,7 +2,7 @@
 
 # Creating and Setting Up a Github account
 I was able to create my account named *officialzachward* and forked the template
-repostory. Some information about me is stored in ../../index.md!
+repostory. Some information about me is stored in [here](../../index.md)
 
 I was also able to join the discord #general channel and posted a greeting
 under the name *zach_*!

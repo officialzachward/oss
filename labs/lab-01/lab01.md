@@ -13,9 +13,11 @@ under the name *zach_*!
 I have read the 10 criteria of Open Source Definition and understand why they are important. Further, I have
 read Eric Raymond's article, "How To Ask Questions The Smart Way" and understand why his points
 are important.
-**My Two Suggestions for Answering a Question in a Helpful way are:**
+**My Two Suggestions for Answering a Question in a Helpful way (from past experience) are:**
 * Specify when you aren't completely sure about a solution. It can be helpful when you have a hack or workaround for something, but it can
 also sabotage someone if he or she doesn't know its just a hack.
+* Don't be afraid to dive into your thinking process when addressing big problems or multi-part questions. Many times, people skip the small steps
+when they explain a solution to someone, but its those small steps that allow the other to discern your thinking process.  
 
 I have also read chapter 3 of Free Culture.
 

@@ -10,19 +10,22 @@ under the name *zach_*!
 
 # Reading assignments - make sure to reflect on these in a lab1.md file in your repository
 
-Please read the 10 criteria of Open Source Definition and understand why they are important.
-Please read Eric Raymond's article Smart Questions How to ask the question The Smart Way .
-**Do you have more suggestions for How To Answer Questions in a Helpful Way (from your past experience)?
-List at least two.**
+I have read the 10 criteria of Open Source Definition and understand why they are important. Further, I have
+read Eric Raymond's article, "How To Ask Questions The Smart Way" and understand why his points
+are important.
+**My Two Suggestions for Answering a Question in a Helpful way are:**
 * Specify when you aren't completely sure about a solution. It can be helpful when you have a hack or workaround for something, but it can
 also sabotage someone if he or she doesn't know its just a hack.
-Please read chapter 3 of Free Culture
 
-Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
-Read the first chapter in Beautiful Code about the development and implementation (in C) of a very simple grep
+I have also read chapter 3 of Free Culture.
 
-You don't need to record anything here on the reading, but it will help you with the exercises on grep, egrep, and regex.
-Linux
+# Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
+
+...
+
+#Getting Familiar with Linux
+I have read the first chapter of *Beautiful Code* about the development and implementation of
+a very simple grep.
 
 Boot linux (Ubuntu) through a USB, dual boot, or WSL
 

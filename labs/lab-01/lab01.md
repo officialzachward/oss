@@ -6,14 +6,16 @@ repostory. Some information about me is stored in ../../index.md!
 
 I was also able to join the discord #general channel and posted a greeting
 under the name *zach_*!
-
+![Zachary](/labs/lab-01/images/discordchat.png)
 
 # Reading assignments - make sure to reflect on these in a lab1.md file in your repository
 
 Please read the 10 criteria of Open Source Definition and understand why they are important.
 Please read Eric Raymond's article Smart Questions How to ask the question The Smart Way .
-Do you have more suggestions for How To Answer Questions in a Helpful Way (from your past experience)
-List at least two.
+**Do you have more suggestions for How To Answer Questions in a Helpful Way (from your past experience)?
+List at least two.**
+* Specify when you aren't completely sure about a solution. It can be helpful when you have a hack or workaround for something, but it can
+also sabotage someone if he or she doesn't know its just a hack.
 Please read chapter 3 of Free Culture
 
 Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.

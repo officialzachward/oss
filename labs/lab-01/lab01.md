@@ -63,7 +63,7 @@ I solved the blockly maze using the following logic:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At this point, I'm very interested in the idea of making something along the lines of a web-based chat application, but for a specific purpose.
 Specifically, I'd like to make a chat interface for rpi students where they can easily hop on and chat with each other. This chat application could have specific RPI features as well,
 such as integration with SIS, allowing students to send each other their RPI schedules and other non-compromising details. Further, students could potentially use this integration to
-send courses to each other which they can register for in a single click.
+send courses to each other which they can register for in a single click.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The necessity of an informal chat platform targetting RPI students has grown quite fast. Since COVID-19 struck, students have undoubtedly had a harder time meeting and connecting with their
 fellow classmates. Even now, most RPI students are split between discord, webex teams, skype, zoom, nooks and other platforms;
 there is yet to be any central platform for RPI students to communicate and meet new students. With my project idea, not only could students have a more concrete platform to connect with fellow classmates, but also students could have easier access to features typically only accessible within RPI websites such as SIS. If this project was implemented correctly, I think it could be very beneficial for RPI students.

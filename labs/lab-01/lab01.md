@@ -39,13 +39,20 @@ The relevant screenshots are attached below:
 ![ManTree](/labs/lab-01/images/mantree.png)
 # Regex Practice Problems
 
-To get full credit, do at least 7 problems.
-Take a screenshot and add to lab01.md
-Go through the tutorials here to practice regex crosswords, then try a few problems.
+*Seven practice Problems*  
+![problem1](/labs/lab-01/images/problem1.png)
+![problem2](/labs/lab-01/images/problem2.png)
+![problem3](/labs/lab-01/images/problem3.png)
+![problem4](/labs/lab-01/images/problem4.png)
+![problem5](/labs/lab-01/images/problem5.png)
+![problem6](/labs/lab-01/images/problem6.png)
+![problem7](/labs/lab-01/images/problem7.png)
 
-Do at least four problems on beginner level here.
-Take a screenshot and add to lab01.md
-(Optional But Recommended) Do problem 11 in adventofcode 2015 (You may use regular expression)
+*Four Regex Crossword Problems*  
+![cross1](/labs/lab-01/images/crossword1.png)
+![cross2](/labs/lab-01/images/crossword2.png)
+![cross3](/labs/lab-01/images/crossword3.png)
+![cross4](/labs/lab-01/images/crossword4.png)
 
 # Play with Snap or Blockly
 

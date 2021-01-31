@@ -1,5 +1,5 @@
 # Open Source Software - Spring 2021
-## Zachary Ward  
+## Zachary Ward  (Discord: zach_)
 
 ## Bio
 Senior Computer Science student with an interest in web development

@@ -21,7 +21,7 @@ when they explain a solution to someone, but its those small steps that allow th
 
 I have also read chapter 3 of Free Culture.
 
-**Takeaways from Chapter 3:**
+**Takeaways from Chapter 3:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After reading Chapter 3 of Free Culture, I am nothing but shocked.
 I didn't realize how common it was for a student, simply tinkering
 with exciting technology, to be sued for everything he or she has.

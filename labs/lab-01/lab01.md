@@ -22,33 +22,22 @@ when they explain a solution to someone, but its those small steps that allow th
 I have also read chapter 3 of Free Culture.
 
 **Takeaways from Chapter 3:**
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After reading Chapter 3 of Free Culture, I am nothing but shocked.
+I didn't realize how common it was for a student, simply tinkering
+with exciting technology, to be sued for everything he or she has.
+Jesse Jordan, who was merely "tinkering with a Google-like technology at a university" (Lessig), making no money, suffered extreme consequences. Not only did Jesse have to give up his entire savings, but having an innovative personality like he had was also discouraged after this lawsuit. Personally, I do not think Jesse did anything wrong, and RIAA was certainly being predatory with this lawsuit. Further, RIAA's original request for damages was far larger than it should have been, and considering Jesse did not make any money off of what he did, he should not have had to give any money up. To be honest, after reading this chapter, I'm not entirely sure how Jesse violated any copyright laws and how he was accused of piracy, especially given that he wasn't publicly advertising his service. I am also curious how Jesse caught the RIAA's attention with what he was doing. All in all, I think this lawsuit is a tragedy and speaks volumes about how big corporations will exploit potentially lawsuit opportunities whenever possible.
 ...
 
 # Getting Familiar with Linux
 I have read the first chapter of *Beautiful Code* about the development and implementation of
 a very simple grep.
 
-Boot linux (Ubuntu) through a USB, dual boot, or WSL
-
-Get familiar with the directory structure.
-Practice with ls, cd, mkdir, chmod commands - when in doubt search the web to find the answer.
-Practice with grep, egrep commands
-
-Look at the manual (man grep) to see how to use these commands.
-Install tree and get the directory structure.
-
-On linux: sudo apt-get install tree, or use the Ubuntu software install
-on OSX: brew install tree
-man tree
-For Ubuntu versions 18.04 and greater:
-sudo snap install tree
-tree --help
-On WSL, it looks like it is already available https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tree
-Take a screenshot and add to lab01.md
-# Regex
-
-In your Foundations of Computer Science class you learned about Regular expressions. (If you have not taken Foundations of Computer Science class, please talk to the instructor for an explanation). Please do the practice problems given here.
+I have familiarized myself with the directory structure and 
+have installed tree. I have also performed *man tree*.
+The relevant screenshots are attached below:
+![Tree](/labs/lab-01/images/installtree.png)
+![ManTree](/labs/lab-01/images/mantree.png)
+# Regex Practice Problems
 
 To get full credit, do at least 7 problems.
 Take a screenshot and add to lab01.md

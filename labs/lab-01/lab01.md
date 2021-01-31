@@ -34,7 +34,7 @@ a very simple grep.
 
 I have familiarized myself with the directory structure and 
 have installed tree. I have also performed *man tree*.
-The relevant screenshots are attached below:
+The relevant screenshots are attached below:  
 ![Tree](/labs/lab-01/images/installtree.png)
 ![ManTree](/labs/lab-01/images/mantree.png)
 # Regex Practice Problems

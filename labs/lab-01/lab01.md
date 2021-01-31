@@ -56,9 +56,8 @@ The relevant screenshots are attached below:
 
 # Play with Snap or Blockly
 
-Create some thing using Snap or solve this using blockly
-Add documentation (screenshots) of your accomplishments to lab1.md
-Reflection
+I solved the blockly maze using the following logic:  
+![blockly](/labs/lab-01/images/blockly.png)
 
 # Pick an Open Source Project that might be interesting to evaluate
 Start thinking/finding a problem/project that interests you

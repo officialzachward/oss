@@ -26,7 +26,7 @@ I have also read chapter 3 of Free Culture.
 I didn't realize how common it was for a student, simply tinkering
 with exciting technology, to be sued for everything he or she has.
 Jesse Jordan, who was merely "tinkering with a Google-like technology at a university" (Lessig), making no money, suffered extreme consequences. Not only did Jesse have to give up his entire savings, but having an innovative personality like he had was also discouraged after this lawsuit. Personally, I do not think Jesse did anything wrong, and RIAA was certainly being predatory with this lawsuit. Further, RIAA's original request for damages was far larger than it should have been, and considering Jesse did not make any money off of what he did, he should not have had to give any money up. To be honest, after reading this chapter, I'm not entirely sure how Jesse violated any copyright laws and how he was accused of piracy, especially given that he wasn't publicly advertising his service. I am also curious how Jesse caught the RIAA's attention with what he was doing. All in all, I think this lawsuit is a tragedy and speaks volumes about how big corporations will exploit potentially lawsuit opportunities whenever possible.
-...
+
 
 # Getting Familiar with Linux
 I have read the first chapter of *Beautiful Code* about the development and implementation of

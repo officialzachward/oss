@@ -7,10 +7,10 @@ Link to lab2part1 repo: https://github.com/officialzachward/lab2part1
 Branching Diagrams:  
 
 Gitk:  
-[!Gitk](../images/gitk.png)
+[!Gitk](/labs/lab-02/images/gitk.png)
 
 Git log:
-[!Gitlog](../images/gitlog.png)
+[!Gitlog](labs/lab-02/images/gitlog.png)
 
 
 

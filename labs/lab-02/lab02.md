@@ -10,9 +10,15 @@ Gitk:
 ![Gitk](/labs/lab-02/images/gitk.png)  
 
 Git log:  
-![gitlog](/labs/lab-02/images/gitlog.png)
+![gitlog](/labs/lab-02/images/gitlog.png)  
+
+*Part 2*  
 
 My fork of the Spoon-Knife repo: https://github.com/officialzachward/Spoon-Knife
 
 My proof of completing *Learn Git Branching* (introduction sequence):  
-![intro](/labs/lab-02/images/4levels.png)
+![intro](/labs/lab-02/images/4levels.png)  
+
+*Part 3*  
+
+My PullReq Repo Fork: https://github.com/officialzachward/PullReq

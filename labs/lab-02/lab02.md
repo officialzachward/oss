@@ -22,3 +22,9 @@ My proof of completing *Learn Git Branching* (introduction sequence):
 *Part 3*  
 
 My PullReq Repo Fork: https://github.com/officialzachward/PullReq
+
+Git Diff Screenshot:  
+![diff](/labs/lab-02/images/diff.png)
+
+Git Tag output (git tag -l):  
+![tag](/labs/lab-02/images/gittag.png)

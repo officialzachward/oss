@@ -27,4 +27,6 @@ Git Diff Screenshot:
 ![diff](/labs/lab-02/images/diff.png)
 
 Git Tag output (git tag -l):  
-![tag](/labs/lab-02/images/gittag.png)
+![tag](/labs/lab-02/images/gittag.png)  
+
+Project Ideas Table Repository Fork: https://github.com/officialzachward/OSSProjectIdeas

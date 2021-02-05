@@ -14,3 +14,5 @@ Git log:
 
 My fork of the Spoon-Knife repo: https://github.com/officialzachward/Spoon-Knife
 
+My proof of completing *Learn Git Branching* (introduction sequence):  
+![intro](/labs/lab-02/images/4levels.png)

@@ -10,7 +10,7 @@ Gitk:
 ![Gitk](/labs/lab-02/images/gitk.png)
 
 Git log:
-![gitlog](labs/lab-02/images/gitlog.png)
+![gitlog](/labs/lab-02/images/gitlog.png)
 
 
 

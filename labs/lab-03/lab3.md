@@ -6,6 +6,9 @@
 ```$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\ldots}}}}$```  
   
 ![sqrts2](/labs/lab-03/images/latex2.png)
+
+``` $\begin{bmatrix}  1 & 1 & 1 & 1\\  -1 & 1 & -1 & 1\\  -1 & -1 & 1 & 1\\  1 & -1 & -1 & 1  \end{bmatrix}$ ```
+
 # Part 2 - Community 
 
 **Project #1**: Rpi Campus Map

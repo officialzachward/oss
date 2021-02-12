@@ -7,7 +7,7 @@
   
 ![sqrts2](/labs/lab-03/images/latex2.png)
 
-``` $\begin{bmatrix} ```
+``` $\begin{bmatrix} ```  
 ``` 1 & 1 & 1 & 1\\ ```
  
 

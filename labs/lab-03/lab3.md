@@ -14,3 +14,6 @@ After running GitStats, we note a difference in the Contributors, also denoted a
 GitStats reports that there are 18 Authors when Git only revealed 10. Further, the Git
 command on line 5 of this document yielded 37207 lines of code in Rpi Campus Map; GitStats
 yielded 21118 lines of code (46245 added, 25127 removed).
+
+Screenshot of Rpi Campus Map `gource`:
+![CampusMapGource](/labs/lab-03/images/gource.png)

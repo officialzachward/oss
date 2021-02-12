@@ -7,7 +7,9 @@
   
 ![sqrts2](/labs/lab-03/images/latex2.png)
 
-``` $\begin{bmatrix}  1 & 1 & 1 & 1\\&nbsp;  -1 & 1 & -1 & 1\\  -1 & -1 & 1 & 1\\  1 & -1 & -1 & 1  \end{bmatrix}$ ```
+``` $\begin{bmatrix} ```
+``` 1 & 1 & 1 & 1\\ ```
+ 
 
 # Part 2 - Community 
 

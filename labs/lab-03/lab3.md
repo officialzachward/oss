@@ -3,6 +3,9 @@
   
 ![sqrts](/labs/lab-03/images/latex1.png)
 
+```$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\ldots}}}}$```  
+  
+![sqrts2](/labs/lab-03/images/latex2.png)
 # Part 2 - Community 
 
 **Project #1**: Rpi Campus Map

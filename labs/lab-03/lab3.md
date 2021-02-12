@@ -8,6 +8,8 @@ First Commit: Fri Sep 28 14:26:53 2018
 Last Commit: Tue Jan 26 22:52:51 2021  
 Branches: master (one branch)  
 
+![GitStats](/labs/lab-03/images/gitstats.png)
+
 After running GitStats, we note a difference in the Contributors, also denoted as *Authors*.  
 GitStats reports that there are 18 Authors when Git only revealed 10. Further, the Git
 command on line 5 of this document yielded 37207 lines of code in Rpi Campus Map; GitStats

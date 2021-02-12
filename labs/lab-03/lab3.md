@@ -8,9 +8,12 @@
 ![sqrts2](/labs/lab-03/images/latex2.png)
 
  ```
- d
- d
- d
+ $\begin{bmatrix}
+1 & 1 & 1 & 1\\
+-1 & 1 & -1 & 1\\
+-1 & -1 & 1 & 1\\
+1 & -1 & -1 & 1
+\end{bmatrix}$
  ```
 
 # Part 2 - Community 

@@ -18,7 +18,7 @@ yielded 21118 lines of code (46245 added, 25127 removed).
 Screenshot of Rpi Campus Map `gource`:
 ![CampusMapGource](/labs/lab-03/images/gource.png)
 
-**Project #2**: Shuttle Tracker
+**Project #2**: Shuttle Tracker  
 Contributors: 33  
 Lines of code: ~62,000  
 Initial commit on January 27, 2015 by gbprz  
@@ -26,3 +26,8 @@ Latest commit on December 4, 2020 by MattCzyr
 Branches: 55  
 
 ![GitStats2](/labs/lab-03/images/shuttletrackerstats.png)
+
+The results of gitstats are a bit different than the stats from git, but they're in the same ballpark. For example, 33 contributors vs. 39 contributors, and ~62,000 lines of code vs. ~53,000 lines of code.
+
+Screenshot of `gource`:
+![Gource2](/labs/lab-03/images/shuttletrackergource.png)

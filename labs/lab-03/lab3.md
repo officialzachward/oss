@@ -19,10 +19,10 @@ Screenshot of Rpi Campus Map `gource`:
 ![CampusMapGource](/labs/lab-03/images/gource.png)
 
 **Project #2**: Shuttle Tracker
-Contributors: 33
-Lines of code: ~62,000
-Initial commit on January 27, 2015 by gbprz
-Latest commit on December 4, 2020 by MattCzyr
-Branches: 55
+Contributors: 33  
+Lines of code: ~62,000  
+Initial commit on January 27, 2015 by gbprz  
+Latest commit on December 4, 2020 by MattCzyr  
+Branches: 55  
 
 ![GitStats2](/labs/lab-03/images/shuttletrackerstats.png)

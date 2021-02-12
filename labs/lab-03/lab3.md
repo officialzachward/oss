@@ -7,9 +7,11 @@
   
 ![sqrts2](/labs/lab-03/images/latex2.png)
 
-``` hi\n hi  
-fff```
- 
+ ```
+ d
+ d
+ d
+ ```
 
 # Part 2 - Community 
 

@@ -1,3 +1,6 @@
+# Part 1 - Documentation  
+``` $\sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \ldots}}}}$ ```
+
 # Part 2 - Community 
 
 **Project #1**: Rpi Campus Map

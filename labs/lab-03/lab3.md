@@ -1,5 +1,6 @@
 # Part 1 - Documentation  
-``` $\sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \ldots}}}}$ ```
+``` $\sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \ldots}}}}$ ```  
+![sqrts](/labs/lab-03/images/latex1.png)
 
 # Part 2 - Community 
 

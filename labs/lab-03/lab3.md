@@ -14,7 +14,9 @@
 -1 & -1 & 1 & 1\\
 1 & -1 & -1 & 1
 \end{bmatrix}$
- ```
+ ```  
+   
+![sqrts3](/labs/lab-03/images/latex3.png)
 
 # Part 2 - Community 
 

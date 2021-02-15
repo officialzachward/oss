@@ -1,4 +1,6 @@
 # Part 1 - Documentation  
+Wiki link: https://github.com/officialzachward/oss/wiki/Problem-Area-of-Interest  
+
 ``` $\sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \ldots}}}}$ ```  
   
 ![sqrts](/labs/lab-03/images/latex1.png)

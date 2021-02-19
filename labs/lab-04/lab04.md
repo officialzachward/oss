@@ -31,13 +31,13 @@ is limited. The developers of SailfishOS likely want to keep their UX unique as 
 Link to repository with open source project: https://github.com/MattCzyr/Lab04
 
 **Part 8 (RCOS projects and info)**  
-| Project         | License?    | Current License  |
-| :---            |    :----:   |             ---: |
-| QuACS           | YES         | MIT License      |
-| Shuttle Tracker | YES         | AGPL 3.0         |
-| OpenCircuits    | YES         | GPL 3.0          |
-| YACS            | YES         | MIT License      |
-| Submitty        | YES         | BSD 3-Clau       |
+| Project         | License?    | Current License    |
+| :---            |    :----:   |             -----: |
+| QuACS           | YES         | MIT License        |
+| Shuttle Tracker | YES         | AGPL 3.0           |
+| OpenCircuits    | YES         | GPL 3.0            |
+| YACS            | YES         | MIT License        |
+| Submitty        | YES         | BSD 3-Clau         |
 
 
 

@@ -1,6 +1,6 @@
 # Lab 04 - Licensing
 
-License for this lab: https://github.com/officialzachward/oss/blob/master/labs/lab-04/LICENSE.md
+License for this lab: https://github.com/officialzachward/oss/blob/master/labs/lab-04/LICENSE.md  
 I also read the [four criteria for Free Software](http://www.gnu.org/philosophy/free-sw.html).
 
 **Why is it important to choose a License?**  

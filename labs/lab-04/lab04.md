@@ -37,7 +37,7 @@ Link to repository with open source project: https://github.com/MattCzyr/Lab04
 | Shuttle Tracker | YES         | AGPL 3.0           |
 | OpenCircuits    | YES         | GPL 3.0            |
 | YACS            | YES         | MIT License        |
-| Submitty        | YES         | BSD 3-Clau         |
+| Submitty        | YES         | BSD 3-Clause       |
 
 
 

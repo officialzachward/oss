@@ -1,6 +1,7 @@
 # Lab 04 - Licensing
 
 License for this lab: https://github.com/officialzachward/oss/blob/master/labs/lab-04/LICENSE.md
+I also read the [four criteria for Free Software](http://www.gnu.org/philosophy/free-sw.html).
 
 **Why is it important to choose a License?**  
 It is very important to choose a specific License when starting an open source project as the license
@@ -26,10 +27,10 @@ system from being replicated in another rival's phone. All in all, the amount of
 is limited. The developers of SailfishOS likely want to keep their UX unique as that was a large selling point of the software.
 
 
-# Part 7 (Repository Link)
+**Part 7 (Repository Link)**
 Link to repository with open source project: https://github.com/MattCzyr/Lab04
 
-# Part 8 (RCOS projects and info)
+**Part 8 (RCOS projects and info)**
 | Project         | License?    | Current License  |
 | :---            |    :----:   |             ---: |
 | QuACS           | YES         | MIT License      |

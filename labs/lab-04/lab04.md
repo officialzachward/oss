@@ -10,27 +10,27 @@ owners would prefer to have their code cited when it is used in other products o
 for example, that could be specified in a license. Finally, code cannot be officially open source without
 some sort of license.  
 
-**Why I am not using source code of a project without a license**
+**Why I am not using source code of a project without a license**  
 Any code that doesn’t explicitly have a license specified is considered “all rights reserved” by the author (this is standard copyright law in the United States[2]).  
 In other words, you don’t have any legal right to use, reproduce, distribute, or otherwise use the code without the consent of the author. Thus, if I ever come across
 source code with no license, I will not be using it.  
 
-**Failure to follow the Open System Model**
+**Failure to follow the Open System Model**  
 I agree with the claims made by *Failure to follow the Open System Model*. It is certainly the case that when there are open (obvious)
 communication standards, open source projects can more easily flourish. Gopher deviated from many other standards as well which
 led to Gopher's fall.
 
-**Why SailfishOS is not open source (Justification)**
+**Why SailfishOS is not open source (Justification)**  
 Given the circumstances, it definitely makes the most sense for SailfishOS to be mostly proprietary; the main usage  
 for the operating system is for a flagship phone, Jolla, and it would make the most sense to keep the phones operating
 system from being replicated in another rival's phone. All in all, the amount of phones that use this OS, viewable [here](https://jolla-devices.com/sailfish_devices/),  
 is limited. The developers of SailfishOS likely want to keep their UX unique as that was a large selling point of the software.
 
 
-**Part 7 (Repository Link)**
+**Part 7 (Repository Link)**  
 Link to repository with open source project: https://github.com/MattCzyr/Lab04
 
-**Part 8 (RCOS projects and info)**
+**Part 8 (RCOS projects and info)**  
 | Project         | License?    | Current License  |
 | :---            |    :----:   |             ---: |
 | QuACS           | YES         | MIT License      |

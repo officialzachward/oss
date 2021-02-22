@@ -11,7 +11,7 @@ for example, that could be specified in a license. Finally, code cannot be offic
 some sort of license.  
 
 **Why I am not using source code of a project without a license**  
-Any code that doesn’t explicitly have a license specified is considered “all rights reserved” by the author (this is standard copyright law in the United States[2]).  
+Any code that doesn’t explicitly have a license specified is considered “all rights reserved” by the author (this is standard copyright law in the United States).  
 In other words, you don’t have any legal right to use, reproduce, distribute, or otherwise use the code without the consent of the author. Thus, if I ever come across
 source code with no license, I will not be using it.  
 

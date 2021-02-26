@@ -513,7 +513,10 @@ CMakeLists.txt:
 Generated Makefile by cmake:
 
 
-**Size Comparison**  
+**Size Comparison:**  
 Static and Shared are about the same size, though Static is slightly bigger  
 (16856 size for Static vs. 16696 size for Shared).
+
+**Results:**  
+![result4](/labs/lab-05/images/shared.png)
  

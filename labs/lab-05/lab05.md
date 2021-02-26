@@ -124,7 +124,7 @@ target_include_directories(Tutorial PUBLIC
 ```
 Tutorial Command Results:  
 ![results](/labs/lab-05/images/step1and2.png)
-
+---------------------------------------------------------------------------------------
 **Step 3 (MYMATH ON)**  
 CMakeLists.txt changes:  
 ```
@@ -175,6 +175,6 @@ target_include_directories(MathFunctions
 
 Tutorial Command Results assuming MYMATH=ON:  
 ![results2](/labs/lab-05/images/step3.png)
-
+---------------------------------------------------------------------------------------
 
 

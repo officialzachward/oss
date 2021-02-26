@@ -1,6 +1,8 @@
 # Lab 05 - Build Systems
 
-**Step 1**  
+**Steps 1 and 2**
+
+*Step 1*  
 
 Modified tutorial.cxx code:
 ``` 
@@ -47,10 +49,7 @@ add_executable(Tutorial tutorial.cxx)
 target_include_directories(Tutorial PUBLIC "${PROJECT_BINARY_DIR}")
 ```
 
-Tutorial Command Results:  
-![results](/labs/lab-05/images/step1and2.png)
-
-**Step 2: MyMath vs Regular sqrt**  
+*Step 2* 
 Modified tutorial.cxx (Step 2 directory):
 ```
 // A simple program that computes the square root of a number
@@ -123,5 +122,6 @@ target_include_directories(Tutorial PUBLIC
                            ${EXTRA_INCLUDES}
                            )
 ```
-
+Tutorial Command Results for both steps (same):  
+![results](/labs/lab-05/images/step1and2.png)
 

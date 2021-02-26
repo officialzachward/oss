@@ -1,6 +1,6 @@
 # Lab 05 - Build Systems
 
-**Step 1 and 2**  
+**Step 1**  
 
 Modified tutorial.cxx code:
 ``` 

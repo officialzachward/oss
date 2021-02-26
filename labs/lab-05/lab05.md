@@ -1,5 +1,7 @@
 # Lab 05 - Build Systems
 
+# Part 1
+
 **Steps 1 and 2**
 
 *Step 1*  
@@ -501,5 +503,17 @@ install(FILES MathFunctions.h DESTINATION include)
 
 Results:  
 ![results3](/labs/lab-05/images/step5.png)
+-------------------------------------------------------------------------------
+# Part 2
+
+Makefile:
+
+CMakeLists.txt:
+
+Generated Makefile by cmake:
 
 
+**Size Comparison**  
+Static and Shared are about the same size, though Static is slightly bigger  
+(16856 size for Static vs. 16696 size for Shared).
+ 

@@ -47,3 +47,5 @@ add_executable(Tutorial tutorial.cxx)
 target_include_directories(Tutorial PUBLIC "${PROJECT_BINARY_DIR}")
 ```
 
+Tutorial Command Results:  
+![results](/labs/lab-05/images/step1and2.png)

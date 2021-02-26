@@ -507,8 +507,39 @@ Results:
 # Part 2
 
 Makefile:
+```
+all: static shared
+
+# getting output from program.c
+program.o:
+	cc -fPIC -c program.c -o program.o
+
+shared: program.o libblock.so
+	cc program.o libblock.so -o shared -Wl,-rpath='.'
+
+static: program.o libprint.a
+	cc program.o libprint.a -o static
+```
+
+
 
 CMakeLists.txt:
+```
+cmake_minimum_required(VERSION 3.14)
+
+project(Dynamic)
+
+add_library(StaticSource STATIC source/block.c)
+
+add_library(SharedSource SHARED source/block.c)
+
+# add the executable                                                          
+add_executable(Shared program.c)
+target_link_libraries(Shared SharedSource)
+
+add_executable(Static program.c)
+target_link_libraries(Static StaticSource)
+```
 
 Generated Makefile by cmake:
 ```

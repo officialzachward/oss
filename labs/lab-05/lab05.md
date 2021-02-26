@@ -121,7 +121,7 @@ target_include_directories(Tutorial PUBLIC
                            "${PROJECT_BINARY_DIR}"
                            ${EXTRA_INCLUDES}
                            )
-```
+```  
 Tutorial Command Results:  
 ![results](/labs/lab-05/images/step1and2.png)
 ---------------------------------------------------------------------------------------
@@ -170,7 +170,7 @@ target_include_directories(MathFunctions
           INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}
           )
 
-```
+```  
 
 
 Tutorial Command Results assuming MYMATH=ON:  

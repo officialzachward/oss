@@ -506,26 +506,36 @@ Results:
 -------------------------------------------------------------------------------
 # Part 2
 
-Makefile:
+My Makefile:
 ```
-all: static shared
+all: dynamic_program static_program
 
-# getting output from program.c
-program.o:
-	cc -fPIC -c program.c -o program.o
+# our static library here
+static_program: static_program.o static_lib_block.a
+        gcc static_program.o static_lib_block.a -o static_program
+static_program.o: program.c
+        gcc -c program.c -o static_program.o
+static_lib_block.a: static_block.o
+        ar qc static_lib_block.a static_block.o
+static_block.o: ./source/block.c
+        gcc -c ./source/block.c -o static_block.o
 
-shared: program.o libblock.so
-	cc program.o libblock.so -o shared -Wl,-rpath='.'
-
-static: program.o libprint.a
-	cc program.o libprint.a -o static
+# our shared library here
+dynamic_program: shared_program.o shared_lib_block.so
+        gcc shared_program.o shared_lib_block.so -o dynamic_program -Wl,-rpath='$$ORIGIN'
+shared_program.o: program.c
+        gcc -c program.c -o shared_program.o
+shared_lib_block.so: dynamic_block.o
+        gcc -shared -o shared_lib_block.so dynamic_block.o
+dynamic_block.o: ./source/block.c
+        gcc -fPIC -c ./source/block.c -o dynamic_block.o
 ```
 
 
 
 CMakeLists.txt:
 ```
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.10)
 
 project(Dynamic)
 

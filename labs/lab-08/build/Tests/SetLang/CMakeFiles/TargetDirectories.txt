@@ -1,0 +1,5 @@
+/home/zachary/oss/labs/lab-08/build/Tests/SetLang/CMakeFiles/rebuild_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/SetLang/CMakeFiles/edit_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/SetLang/CMakeFiles/zoom.dir
+/home/zachary/oss/labs/lab-08/build/Tests/SetLang/CMakeFiles/SetLang.dir
+/home/zachary/oss/labs/lab-08/build/Tests/SetLang/CMakeFiles/foo.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libCshared.so -o libCshared.so CMakeFiles/Cshared.dir/c.c.o A/CMakeFiles/A.dir/a1.c.o A/CMakeFiles/A.dir/a2.c.o B/CMakeFiles/Bexport.dir/b1.c.o B/CMakeFiles/Bexport.dir/b2.c.o 

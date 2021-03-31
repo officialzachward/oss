@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/CxxSubdirC.dir/main.cxx.o Cdir/CMakeFiles/Cobj.dir/Cobj.c.o -o CxxSubdirC 

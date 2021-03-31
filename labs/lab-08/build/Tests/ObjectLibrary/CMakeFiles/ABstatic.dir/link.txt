@@ -1,0 +1,2 @@
+/usr/bin/ar qc libABstatic.a A/CMakeFiles/A.dir/a1.c.o A/CMakeFiles/A.dir/a2.c.o B/CMakeFiles/B.dir/b1.c.o B/CMakeFiles/B.dir/b2.c.o
+/usr/bin/ranlib libABstatic.a

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/c_restrict_user_meta.dir/restrict_user.c.o -o c_restrict_user_meta  libc_lib_restrict_meta.a 

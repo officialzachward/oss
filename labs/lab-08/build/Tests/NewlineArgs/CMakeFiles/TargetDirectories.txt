@@ -1,0 +1,4 @@
+/home/zachary/oss/labs/lab-08/build/Tests/NewlineArgs/CMakeFiles/rebuild_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/NewlineArgs/CMakeFiles/edit_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/NewlineArgs/CMakeFiles/NewlineArgs.dir
+/home/zachary/oss/labs/lab-08/build/Tests/NewlineArgs/CMakeFiles/testcxx1.dir

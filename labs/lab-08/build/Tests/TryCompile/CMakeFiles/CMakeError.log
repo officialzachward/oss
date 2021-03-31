@@ -1,0 +1,145 @@
+Performing C SOURCE FILE Test C_BUILD_SHOULD_FAIL failed with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_2c142/fast && /usr/bin/make  -f CMakeFiles/cmTC_2c142.dir/build.make CMakeFiles/cmTC_2c142.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2c142.dir/src.c.o
+/usr/bin/cc -DC_BUILD_SHOULD_FAIL   -o CMakeFiles/cmTC_2c142.dir/src.c.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c
+/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c:1:1: error: unknown type name ‘I’
+    1 | I don't build
+      | ^
+/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c:1:6: warning: missing terminating ' character
+    1 | I don't build
+      |      ^
+/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c:1:6: error: missing terminating ' character
+    1 | I don't build
+      |      ^~~~~~~~
+/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c:1:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ at end of input
+    1 | I don't build
+      | ^
+make[1]: *** [CMakeFiles/cmTC_2c142.dir/build.make:78: CMakeFiles/cmTC_2c142.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_2c142/fast] Error 2
+
+
+Source file was:
+I don't build
+Performing C SOURCE FILE Test C_RUN_SHOULD_FAIL failed with the following compile output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_5b075/fast && /usr/bin/make  -f CMakeFiles/cmTC_5b075.dir/build.make CMakeFiles/cmTC_5b075.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5b075.dir/src.c.o
+/usr/bin/cc -DC_RUN_SHOULD_FAIL   -o CMakeFiles/cmTC_5b075.dir/src.c.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_5b075
+/home/zachary/oss/labs/lab-08/build/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5b075.dir/link.txt --verbose=1
+/usr/bin/cc -rdynamic CMakeFiles/cmTC_5b075.dir/src.c.o -o cmTC_5b075 
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+
+Return value: 1
+Source file was:
+int main() {return 1;}
+Performing C++ SOURCE FILE Test CXX_BUILD_SHOULD_FAIL failed with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_58843/fast && /usr/bin/make  -f CMakeFiles/cmTC_58843.dir/build.make CMakeFiles/cmTC_58843.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_58843.dir/src.cxx.o
+/usr/bin/c++ -DCXX_BUILD_SHOULD_FAIL   -o CMakeFiles/cmTC_58843.dir/src.cxx.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.cxx
+/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.cxx:1:6: warning: missing terminating ' character
+    1 | I don't build
+      |      ^
+/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.cxx:1:6: error: missing terminating ' character
+    1 | I don't build
+      |      ^~~~~~~~
+/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.cxx:1:1: error: ‘I’ does not name a type
+    1 | I don't build
+      | ^
+make[1]: *** [CMakeFiles/cmTC_58843.dir/build.make:78: CMakeFiles/cmTC_58843.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_58843/fast] Error 2
+
+
+Source file was:
+I don't build
+Performing C++ SOURCE FILE Test CXX_RUN_SHOULD_FAIL failed with the following compile output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_d9be6/fast && /usr/bin/make  -f CMakeFiles/cmTC_d9be6.dir/build.make CMakeFiles/cmTC_d9be6.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d9be6.dir/src.cxx.o
+/usr/bin/c++ -DCXX_RUN_SHOULD_FAIL   -o CMakeFiles/cmTC_d9be6.dir/src.cxx.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_d9be6
+/home/zachary/oss/labs/lab-08/build/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d9be6.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_d9be6.dir/src.cxx.o -o cmTC_d9be6 
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+
+
+...and run output:
+
+Return value: 2
+Source file was:
+int main() {return 2;}
+Performing C SOURCE FILE Test C_BOGUS_FLAG failed with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_64605/fast && /usr/bin/make  -f CMakeFiles/cmTC_64605.dir/build.make CMakeFiles/cmTC_64605.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_64605.dir/src.c.o
+/usr/bin/cc -DC_BOGUS_FLAG  ---_this_is_not_a_flag_ -o CMakeFiles/cmTC_64605.dir/src.c.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '---_this_is_not_a_flag_'
+make[1]: *** [CMakeFiles/cmTC_64605.dir/build.make:78: CMakeFiles/cmTC_64605.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_64605/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_BOGUS_FLAG failed with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_b8af7/fast && /usr/bin/make  -f CMakeFiles/cmTC_b8af7.dir/build.make CMakeFiles/cmTC_b8af7.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b8af7.dir/src.cxx.o
+/usr/bin/c++ -DCXX_BOGUS_FLAG  ---_this_is_not_a_flag_ -o CMakeFiles/cmTC_b8af7.dir/src.cxx.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '---_this_is_not_a_flag_'
+make[1]: *** [CMakeFiles/cmTC_b8af7.dir/build.make:78: CMakeFiles/cmTC_b8af7.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_b8af7/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_BOGUS_FLAG failed with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_14565/fast && /usr/bin/make  -f CMakeFiles/cmTC_14565.dir/build.make CMakeFiles/cmTC_14565.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_14565.dir/src.c.o
+/usr/bin/cc -DC_BOGUS_FLAG  ---_this_is_not_a_flag_ -o CMakeFiles/cmTC_14565.dir/src.c.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '---_this_is_not_a_flag_'
+make[1]: *** [CMakeFiles/cmTC_14565.dir/build.make:78: CMakeFiles/cmTC_14565.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_14565/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_BOGUS_FLAG failed with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_9a118/fast && /usr/bin/make  -f CMakeFiles/cmTC_9a118.dir/build.make CMakeFiles/cmTC_9a118.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9a118.dir/src.cxx.o
+/usr/bin/c++ -DCXX_BOGUS_FLAG  ---_this_is_not_a_flag_ -o CMakeFiles/cmTC_9a118.dir/src.cxx.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '---_this_is_not_a_flag_'
+make[1]: *** [CMakeFiles/cmTC_9a118.dir/build.make:78: CMakeFiles/cmTC_9a118.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_9a118/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }

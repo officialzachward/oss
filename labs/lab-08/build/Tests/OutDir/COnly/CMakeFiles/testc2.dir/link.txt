@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -shared -Wl,-soname,libtestc2_test_debug_postfix.so -o ../library/Debug/libtestc2_test_debug_postfix.so CMakeFiles/testc2.dir/libc2.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/default_dialect_C.dir/default_dialect.c.o -o default_dialect_C 

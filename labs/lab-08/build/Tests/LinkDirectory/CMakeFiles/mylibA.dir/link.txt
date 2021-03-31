@@ -1,0 +1,2 @@
+/usr/bin/ar qc External/lib/libmylibA.a CMakeFiles/mylibA.dir/mylibA.c.o
+/usr/bin/ranlib External/lib/libmylibA.a

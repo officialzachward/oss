@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/NewlineArgs.dir/cxxonly.cxx.o -o NewlineArgs  libtestcxx1.a 

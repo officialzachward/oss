@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/default_dialect.dir/default_dialect.cpp.o -o default_dialect 

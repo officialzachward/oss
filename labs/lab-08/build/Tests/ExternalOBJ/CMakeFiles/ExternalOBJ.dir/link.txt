@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/ExternalOBJ.dir/executable.cxx.o custom_object.o -o ExternalOBJ 

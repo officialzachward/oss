@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimpleLib.a CMakeFiles/simpleLib.dir/simpleLib.o
+/usr/bin/ranlib libsimpleLib.a

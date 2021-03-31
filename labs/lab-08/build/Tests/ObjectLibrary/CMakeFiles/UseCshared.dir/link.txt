@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/UseCshared.dir/main.c.o -o UseCshared  -Wl,-rpath,/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary libCshared.so 

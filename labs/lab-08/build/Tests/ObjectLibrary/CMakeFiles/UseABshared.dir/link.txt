@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/UseABshared.dir/mainAB.c.o -o UseABshared  -Wl,-rpath,/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary libABshared.so 

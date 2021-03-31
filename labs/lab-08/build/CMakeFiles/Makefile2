@@ -1968,9 +1968,9 @@ Utilities/cmzlib/CMakeFiles/cmzlib.dir/clean:
 # Target rules for target Utilities/cmcurl/CMakeFiles/curltest.dir
 
 # All Build rule for target.
+Utilities/cmcurl/CMakeFiles/curltest.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Utilities/cmcurl/CMakeFiles/curltest.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Utilities/cmcurl/CMakeFiles/curltest.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
-Utilities/cmcurl/CMakeFiles/curltest.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 	$(MAKE) -f Utilities/cmcurl/CMakeFiles/curltest.dir/build.make Utilities/cmcurl/CMakeFiles/curltest.dir/depend
 	$(MAKE) -f Utilities/cmcurl/CMakeFiles/curltest.dir/build.make Utilities/cmcurl/CMakeFiles/curltest.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num= "Built target curltest"
@@ -1997,8 +1997,8 @@ Utilities/cmcurl/CMakeFiles/curltest.dir/clean:
 # Target rules for target Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir
 
 # All Build rule for target.
-Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
+Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 	$(MAKE) -f Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/build.make Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/depend
 	$(MAKE) -f Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/build.make Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num=46,47,48,49,50,51,52,53,54,55,56,57,58,59 "Built target cmcurl"
@@ -2160,8 +2160,8 @@ Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/clean:
 # Target rules for target Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir
 
 # All Build rule for target.
-Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
 Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
+Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
 Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
 	$(MAKE) -f Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/build.make Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/depend
@@ -2272,18 +2272,18 @@ Source/CursesDialog/form/CMakeFiles/cmForm.dir/clean:
 
 # All Build rule for target.
 Source/CMakeFiles/CMakeLib.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Source/CMakeFiles/CMakeLib.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Source/CMakeFiles/CMakeLib.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
 	$(MAKE) -f Source/CMakeFiles/CMakeLib.dir/build.make Source/CMakeFiles/CMakeLib.dir/depend
 	$(MAKE) -f Source/CMakeFiles/CMakeLib.dir/build.make Source/CMakeFiles/CMakeLib.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29 "Built target CMakeLib"
@@ -2311,19 +2311,19 @@ Source/CMakeFiles/CMakeLib.dir/clean:
 
 # All Build rule for target.
 Source/CMakeFiles/CPackLib.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Source/CMakeFiles/CPackLib.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Source/CMakeFiles/CPackLib.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Source/CMakeFiles/CPackLib.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Source/CMakeFiles/CPackLib.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Source/CMakeFiles/CPackLib.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Source/CMakeFiles/CPackLib.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Source/CMakeFiles/CPackLib.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Source/CMakeFiles/CPackLib.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Source/CMakeFiles/CPackLib.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Source/CMakeFiles/CPackLib.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Source/CMakeFiles/CPackLib.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Source/CMakeFiles/CPackLib.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Source/CMakeFiles/CPackLib.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Source/CMakeFiles/CPackLib.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Source/CMakeFiles/CPackLib.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Source/CMakeFiles/CPackLib.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Source/CMakeFiles/CPackLib.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Source/CMakeFiles/CPackLib.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Source/CMakeFiles/CPackLib.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Source/CMakeFiles/CPackLib.dir/build.make Source/CMakeFiles/CPackLib.dir/depend
 	$(MAKE) -f Source/CMakeFiles/CPackLib.dir/build.make Source/CMakeFiles/CPackLib.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num=33 "Built target CPackLib"
@@ -2351,19 +2351,19 @@ Source/CMakeFiles/CPackLib.dir/clean:
 
 # All Build rule for target.
 Source/CMakeFiles/cmake.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Source/CMakeFiles/cmake.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Source/CMakeFiles/cmake.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Source/CMakeFiles/cmake.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Source/CMakeFiles/cmake.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Source/CMakeFiles/cmake.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Source/CMakeFiles/cmake.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Source/CMakeFiles/cmake.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Source/CMakeFiles/cmake.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Source/CMakeFiles/cmake.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Source/CMakeFiles/cmake.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Source/CMakeFiles/cmake.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Source/CMakeFiles/cmake.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Source/CMakeFiles/cmake.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Source/CMakeFiles/cmake.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Source/CMakeFiles/cmake.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Source/CMakeFiles/cmake.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Source/CMakeFiles/cmake.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Source/CMakeFiles/cmake.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Source/CMakeFiles/cmake.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Source/CMakeFiles/cmake.dir/build.make Source/CMakeFiles/cmake.dir/depend
 	$(MAKE) -f Source/CMakeFiles/cmake.dir/build.make Source/CMakeFiles/cmake.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num= "Built target cmake"
@@ -2391,20 +2391,20 @@ Source/CMakeFiles/cmake.dir/clean:
 
 # All Build rule for target.
 Source/CMakeFiles/ctest.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Source/CMakeFiles/ctest.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Source/CMakeFiles/ctest.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Source/CMakeFiles/ctest.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Source/CMakeFiles/ctest.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Source/CMakeFiles/ctest.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Source/CMakeFiles/ctest.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Source/CMakeFiles/ctest.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Source/CMakeFiles/ctest.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Source/CMakeFiles/ctest.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Source/CMakeFiles/ctest.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Source/CMakeFiles/ctest.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Source/CMakeFiles/ctest.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Source/CMakeFiles/ctest.dir/all: Source/CMakeFiles/CTestLib.dir/all
-Source/CMakeFiles/ctest.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Source/CMakeFiles/ctest.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Source/CMakeFiles/ctest.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Source/CMakeFiles/ctest.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Source/CMakeFiles/ctest.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Source/CMakeFiles/ctest.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Source/CMakeFiles/ctest.dir/all: Source/CMakeFiles/CMakeLib.dir/all
+Source/CMakeFiles/ctest.dir/all: Source/CMakeFiles/CTestLib.dir/all
 	$(MAKE) -f Source/CMakeFiles/ctest.dir/build.make Source/CMakeFiles/ctest.dir/depend
 	$(MAKE) -f Source/CMakeFiles/ctest.dir/build.make Source/CMakeFiles/ctest.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num=94 "Built target ctest"
@@ -2432,20 +2432,20 @@ Source/CMakeFiles/ctest.dir/clean:
 
 # All Build rule for target.
 Source/CMakeFiles/cpack.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Source/CMakeFiles/cpack.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Source/CMakeFiles/cpack.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Source/CMakeFiles/cpack.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Source/CMakeFiles/cpack.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Source/CMakeFiles/cpack.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Source/CMakeFiles/cpack.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Source/CMakeFiles/cpack.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Source/CMakeFiles/cpack.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Source/CMakeFiles/cpack.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Source/CMakeFiles/cpack.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Source/CMakeFiles/cpack.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Source/CMakeFiles/cpack.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Source/CMakeFiles/cpack.dir/all: Source/CMakeFiles/CPackLib.dir/all
-Source/CMakeFiles/cpack.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Source/CMakeFiles/cpack.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Source/CMakeFiles/cpack.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Source/CMakeFiles/cpack.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Source/CMakeFiles/cpack.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Source/CMakeFiles/cpack.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Source/CMakeFiles/cpack.dir/all: Source/CMakeFiles/CMakeLib.dir/all
+Source/CMakeFiles/cpack.dir/all: Source/CMakeFiles/CPackLib.dir/all
 	$(MAKE) -f Source/CMakeFiles/cpack.dir/build.make Source/CMakeFiles/cpack.dir/depend
 	$(MAKE) -f Source/CMakeFiles/cpack.dir/build.make Source/CMakeFiles/cpack.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num= "Built target cpack"
@@ -2473,19 +2473,19 @@ Source/CMakeFiles/cpack.dir/clean:
 
 # All Build rule for target.
 Source/CMakeFiles/CTestLib.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Source/CMakeFiles/CTestLib.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Source/CMakeFiles/CTestLib.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Source/CMakeFiles/CTestLib.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Source/CMakeFiles/CTestLib.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Source/CMakeFiles/CTestLib.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Source/CMakeFiles/CTestLib.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Source/CMakeFiles/CTestLib.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Source/CMakeFiles/CTestLib.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Source/CMakeFiles/CTestLib.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Source/CMakeFiles/CTestLib.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Source/CMakeFiles/CTestLib.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Source/CMakeFiles/CTestLib.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Source/CMakeFiles/CTestLib.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Source/CMakeFiles/CTestLib.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Source/CMakeFiles/CTestLib.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Source/CMakeFiles/CTestLib.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Source/CMakeFiles/CTestLib.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Source/CMakeFiles/CTestLib.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Source/CMakeFiles/CTestLib.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Source/CMakeFiles/CTestLib.dir/build.make Source/CMakeFiles/CTestLib.dir/depend
 	$(MAKE) -f Source/CMakeFiles/CTestLib.dir/build.make Source/CMakeFiles/CTestLib.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num=34,35,36,37,38 "Built target CTestLib"
@@ -2513,20 +2513,20 @@ Source/CMakeFiles/CTestLib.dir/clean:
 
 # All Build rule for target.
 Source/CursesDialog/CMakeFiles/ccmake.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Source/CursesDialog/CMakeFiles/ccmake.dir/all: Source/CursesDialog/form/CMakeFiles/cmForm.dir/all
-Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Source/CursesDialog/CMakeFiles/ccmake.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Source/CursesDialog/CMakeFiles/ccmake.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Source/CursesDialog/CMakeFiles/ccmake.dir/all: Source/CursesDialog/form/CMakeFiles/cmForm.dir/all
+Source/CursesDialog/CMakeFiles/ccmake.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Source/CursesDialog/CMakeFiles/ccmake.dir/build.make Source/CursesDialog/CMakeFiles/ccmake.dir/depend
 	$(MAKE) -f Source/CursesDialog/CMakeFiles/ccmake.dir/build.make Source/CursesDialog/CMakeFiles/ccmake.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num=39,40 "Built target ccmake"
@@ -2608,20 +2608,20 @@ Tests/CMakeLib/CMakeFiles/testUVProcessChainHelper.dir/clean:
 
 # All Build rule for target.
 Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Source/CMakeFiles/CTestLib.dir/all
-Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Source/CMakeFiles/CMakeLib.dir/all
+Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/all: Source/CMakeFiles/CTestLib.dir/all
 	$(MAKE) -f Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/build.make Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/depend
 	$(MAKE) -f Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/build.make Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num=30,31,32 "Built target CMakeLibTests"
@@ -2676,19 +2676,19 @@ Tests/CMakeLib/CMakeFiles/testEncoding.dir/clean:
 
 # All Build rule for target.
 Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/build.make Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/depend
 	$(MAKE) -f Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/build.make Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num=99 "Built target runcompilecommands"
@@ -2716,19 +2716,19 @@ Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/clean:
 
 # All Build rule for target.
 Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Tests/CMakeLib/CMakeFiles/testAffinity.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Tests/CMakeLib/CMakeFiles/testAffinity.dir/build.make Tests/CMakeLib/CMakeFiles/testAffinity.dir/depend
 	$(MAKE) -f Tests/CMakeLib/CMakeFiles/testAffinity.dir/build.make Tests/CMakeLib/CMakeFiles/testAffinity.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num= "Built target testAffinity"
@@ -2756,19 +2756,19 @@ Tests/CMakeLib/CMakeFiles/testAffinity.dir/clean:
 
 # All Build rule for target.
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/build.make Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/depend
 	$(MAKE) -f Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/build.make Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num=98 "Built target pseudo_purify"
@@ -2796,19 +2796,19 @@ Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/clean:
 
 # All Build rule for target.
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/build.make Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/depend
 	$(MAKE) -f Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/build.make Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num= "Built target memcheck_fail"
@@ -2836,19 +2836,19 @@ Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/clean:
 
 # All Build rule for target.
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/build.make Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/depend
 	$(MAKE) -f Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/build.make Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num= "Built target pseudo_BC"
@@ -2876,19 +2876,19 @@ Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/clean:
 
 # All Build rule for target.
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/build.make Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/depend
 	$(MAKE) -f Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/build.make Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num= "Built target pseudo_cuda-memcheck"
@@ -2916,19 +2916,19 @@ Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/clean:
 
 # All Build rule for target.
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/all: Source/CMakeFiles/CMakeLib.dir/all
 	$(MAKE) -f Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/build.make Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/depend
 	$(MAKE) -f Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/build.make Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num= "Built target pseudo_valgrind"
@@ -3118,20 +3118,20 @@ Tests/RunCMake/CMakeFiles/pseudo_emulator_custom_command_arg.dir/clean:
 
 # All Build rule for target.
 Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Source/kwsys/CMakeFiles/cmsys.dir/all
-Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
-Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
-Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
 Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/std/CMakeFiles/cmstd.dir/all
+Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmlibrhash/CMakeFiles/cmlibrhash.dir/all
+Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
 Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmcurl/lib/CMakeFiles/cmcurl.dir/all
 Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmnghttp2/CMakeFiles/cmnghttp2.dir/all
 Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmexpat/CMakeFiles/cmexpat.dir/all
 Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmbzip2/CMakeFiles/cmbzip2.dir/all
-Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmzlib/CMakeFiles/cmzlib.dir/all
-Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Source/CMakeFiles/CMakeLib.dir/all
-Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Source/CMakeFiles/CTestLib.dir/all
-Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
 Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmzstd/CMakeFiles/cmzstd.dir/all
 Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmliblzma/CMakeFiles/cmliblzma.dir/all
+Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmlibarchive/libarchive/CMakeFiles/cmlibarchive.dir/all
+Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmjsoncpp/CMakeFiles/cmjsoncpp.dir/all
+Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Utilities/cmlibuv/CMakeFiles/cmlibuv.dir/all
+Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Source/CMakeFiles/CMakeLib.dir/all
+Tests/RunCMake/CMakeFiles/ctresalloc.dir/all: Source/CMakeFiles/CTestLib.dir/all
 	$(MAKE) -f Tests/RunCMake/CMakeFiles/ctresalloc.dir/build.make Tests/RunCMake/CMakeFiles/ctresalloc.dir/depend
 	$(MAKE) -f Tests/RunCMake/CMakeFiles/ctresalloc.dir/build.make Tests/RunCMake/CMakeFiles/ctresalloc.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/CMakeFiles --progress-num= "Built target ctresalloc"

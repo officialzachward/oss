@@ -1,0 +1,9 @@
+__cmake_include_compiler_wrapper
+__compiler_check_default_language_standard
+cmake_record_c_compile_features
+cmake_record_cxx_compile_features
+cmake_record_cuda_compile_features
+__compiler_gnu
+__linux_compiler_gnu
+__cmake_include_compiler_wrapper
+FOO

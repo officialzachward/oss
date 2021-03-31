@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../archive/Debug/libtestc1_test_debug_postfix.a CMakeFiles/testc1.dir/libc1.c.o
+/usr/bin/ranlib ../archive/Debug/libtestc1_test_debug_postfix.a

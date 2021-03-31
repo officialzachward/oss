@@ -19,4 +19,4 @@ and a failed copyright test (copyright expires in 2020 but its 2021).
 The main concern is the copyright failure.  
 
 Experimental Dashboard:  
-<insert here>
+![build](/labs/lab-08/build.png)

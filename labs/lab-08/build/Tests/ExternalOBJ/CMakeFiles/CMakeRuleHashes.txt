@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b6128b6612760a75ee04f3c37f765bb4 custom_object.o

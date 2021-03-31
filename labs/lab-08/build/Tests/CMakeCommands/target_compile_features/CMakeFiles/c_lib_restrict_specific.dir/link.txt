@@ -1,0 +1,2 @@
+/usr/bin/ar qc libc_lib_restrict_specific.a CMakeFiles/c_lib_restrict_specific.dir/lib_restrict.c.o
+/usr/bin/ranlib libc_lib_restrict_specific.a

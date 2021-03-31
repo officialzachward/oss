@@ -1,0 +1,9 @@
+/home/zachary/oss/labs/lab-08/build/Tests/OutDir/CMakeFiles/rebuild_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/OutDir/CMakeFiles/edit_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/OutDir/CMakeFiles/OutDir.dir
+/home/zachary/oss/labs/lab-08/build/Tests/OutDir/COnly/CMakeFiles/edit_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/OutDir/COnly/CMakeFiles/testCModule.dir
+/home/zachary/oss/labs/lab-08/build/Tests/OutDir/COnly/CMakeFiles/COnly.dir
+/home/zachary/oss/labs/lab-08/build/Tests/OutDir/COnly/CMakeFiles/rebuild_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/OutDir/COnly/CMakeFiles/testc2.dir
+/home/zachary/oss/labs/lab-08/build/Tests/OutDir/COnly/CMakeFiles/testc1.dir

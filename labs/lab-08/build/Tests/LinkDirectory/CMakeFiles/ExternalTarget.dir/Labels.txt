@@ -1,0 +1,14 @@
+# Target labels
+ ExternalTarget
+# Source files and their labels
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/CMakeFiles/ExternalTarget
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/CMakeFiles/ExternalTarget.rule
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/CMakeFiles/ExternalTarget-complete.rule
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-build.rule
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-cleanup.rule
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-configure.rule
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-download.rule
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-install.rule
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-mkdir.rule
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-patch.rule
+/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-update.rule

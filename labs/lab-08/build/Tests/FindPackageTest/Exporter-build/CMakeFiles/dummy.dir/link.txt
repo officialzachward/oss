@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/dummy.dir/dummy.c.o -o dummy 

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/c_target_compile_features_meta.dir/main.c.o -o c_target_compile_features_meta 

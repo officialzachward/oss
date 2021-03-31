@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/Transitive2.dir/Transitive.c.o CMakeFiles/FooObject2.dir/FooObject.c.o -o Transitive2  libFooStatic.a 

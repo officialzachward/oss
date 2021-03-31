@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared  -o libtestCModule.so CMakeFiles/testCModule.dir/testCModule.c.o 

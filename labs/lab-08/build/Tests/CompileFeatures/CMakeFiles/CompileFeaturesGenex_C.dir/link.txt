@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/CompileFeaturesGenex_C.dir/genex_test.c.o -o CompileFeaturesGenex_C 

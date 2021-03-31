@@ -1,0 +1,4 @@
+/home/zachary/oss/labs/lab-08/build/Tests/Simple/CMakeFiles/rebuild_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/Simple/CMakeFiles/edit_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/Simple/CMakeFiles/simpleLib.dir
+/home/zachary/oss/labs/lab-08/build/Tests/Simple/CMakeFiles/Simple.dir

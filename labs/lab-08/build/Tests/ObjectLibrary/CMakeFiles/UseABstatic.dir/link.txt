@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/UseABstatic.dir/mainAB.c.o -o UseABstatic  libABstatic.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcxx_lib_auto_type_meta.a CMakeFiles/cxx_lib_auto_type_meta.dir/lib_auto_type.cpp.o
+/usr/bin/ranlib libcxx_lib_auto_type_meta.a

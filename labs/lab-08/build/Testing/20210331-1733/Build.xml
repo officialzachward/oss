@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20210331-1733-Experimental"
+	Name="zachary-Blade"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.3.0"
+	OSName="Linux"
+	Hostname="zachary-Blade"
+	OSRelease="5.8.0-45-generic"
+	OSVersion="#51~20.04.1-Ubuntu SMP Tue Feb 23 13:46:31 UTC 2021"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="1052"
+	TotalPhysicalMemory="15905"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3400.04"
+	>
+	<Build>
+		<StartDateTime>Mar 31 13:33 EDT</StartDateTime>
+		<StartBuildTime>1617212029</StartBuildTime>
+		<BuildCommand>/usr/bin/cmake --build . --config "Release"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Mar 31 13:40 EDT</EndDateTime>
+		<EndBuildTime>1617212451</EndBuildTime>
+		<ElapsedMinutes>7</ElapsedMinutes>
+	</Build>
+</Site>

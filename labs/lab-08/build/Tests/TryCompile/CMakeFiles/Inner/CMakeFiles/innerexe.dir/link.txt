@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/innerexe.dir/innerexe.c.o -o innerexe  libinnerlib.a 

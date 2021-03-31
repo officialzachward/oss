@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zachary/cmake/Tests/ExternalOBJ/Object/external_main.cxx
+
+/home/zachary/cmake/Tests/ExternalOBJ/Object/external_object.cxx
+

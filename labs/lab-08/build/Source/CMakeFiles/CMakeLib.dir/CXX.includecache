@@ -288,36 +288,6 @@ stdio.h
 
 /home/zachary/cmake/Source/LexerParser/cmFortranParserTokens.h
 
-/home/zachary/cmake/Source/LexerParser/cmGccDepfileLexer.cxx
-cmStandardLexer.h
-/home/zachary/cmake/Source/LexerParser/cmStandardLexer.h
-stdio.h
--
-string.h
--
-errno.h
--
-stdlib.h
--
-inttypes.h
--
-cmGccDepfileLexerHelper.h
--
-string
--
-
-/home/zachary/cmake/Source/LexerParser/cmGccDepfileLexer.h
-stdio.h
--
-string.h
--
-errno.h
--
-stdlib.h
--
-inttypes.h
--
-
 /home/zachary/cmake/Source/bindexplib.cxx
 bindexplib.h
 /home/zachary/cmake/Source/bindexplib.h
@@ -2790,10 +2760,6 @@ cmext/algorithm
 cmDocumentationEntry.h
 /home/zachary/cmake/Source/cmDocumentationEntry.h
 
-/home/zachary/cmake/Source/cmDuration.cxx
-cmDuration.h
-/home/zachary/cmake/Source/cmDuration.h
-
 /home/zachary/cmake/Source/cmDuration.h
 chrono
 -
@@ -4888,24 +4854,6 @@ string
 vector
 -
 
-/home/zachary/cmake/Source/cmGccDepfileLexerHelper.cxx
-cmGccDepfileLexerHelper.h
-/home/zachary/cmake/Source/cmGccDepfileLexerHelper.h
-cstdio
--
-memory
--
-string
--
-vector
--
-cmGccDepfileReaderTypes.h
-/home/zachary/cmake/Source/cmGccDepfileReaderTypes.h
-LexerParser/cmGccDepfileLexer.h
-/home/zachary/cmake/Source/LexerParser/cmGccDepfileLexer.h
-cmsys/Encoding.h
-/home/zachary/cmake/Source/cmsys/Encoding.h
-
 /home/zachary/cmake/Source/cmGccDepfileLexerHelper.h
 utility
 -
@@ -5476,20 +5424,6 @@ cmConfigure.h
 string
 -
 vector
--
-
-/home/zachary/cmake/Source/cmGetPipes.cxx
-cmGetPipes.h
-/home/zachary/cmake/Source/cmGetPipes.h
-cm3p/uv.h
--
-fcntl.h
--
-io.h
--
-cerrno
--
-unistd.h
 -
 
 /home/zachary/cmake/Source/cmGetPipes.h
@@ -7189,10 +7123,6 @@ string
 -
 vector
 -
-cmLDConfigTool.h
-/home/zachary/cmake/Source/cmLDConfigTool.h
-
-/home/zachary/cmake/Source/cmLDConfigTool.cxx
 cmLDConfigTool.h
 /home/zachary/cmake/Source/cmLDConfigTool.h
 
@@ -11926,12 +11856,6 @@ string
 vector
 -
 
-/home/zachary/cmake/Source/cmVersion.cxx
-cmVersion.h
-/home/zachary/cmake/Source/cmVersion.h
-cmVersionConfig.h
-/home/zachary/cmake/Source/cmVersionConfig.h
-
 /home/zachary/cmake/Source/cmVersion.h
 cm3p/kwiml/int.h
 -
@@ -13084,12 +13008,6 @@ AvailabilityMacros.h
 mach-o/dyld.h
 -
 be/kernel/image.h
--
-
-Source/cmsys/Encoding.h
-cmsys/Configure.h
--
-wchar.h
 -
 
 Source/cmsys/Encoding.hxx

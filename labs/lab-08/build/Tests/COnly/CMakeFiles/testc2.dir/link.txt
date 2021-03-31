@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libtestc2.so -o libtestc2.so CMakeFiles/testc2.dir/libc2.c.o 

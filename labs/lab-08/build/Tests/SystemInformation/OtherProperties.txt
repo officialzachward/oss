@@ -1,0 +1,3 @@
+INCLUDE_DIRECTORY: /home/zachary/oss/labs/lab-08/build/Tests/SystemInformation
+INCLUDE_DIRECTORY: /home/zachary/cmake/Tests/SystemInformation
+INCLUDE_REGULAR_EXPRESSION: ^.*$

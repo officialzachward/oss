@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/MathTest.dir/MathTestExec.cxx.o -o MathTest 

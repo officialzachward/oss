@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/CMakeFiles/ExternalTarget"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/CMakeFiles/ExternalTarget.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/CMakeFiles/ExternalTarget-complete.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-build.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-cleanup.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-configure.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-download.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-install.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-mkdir.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-patch.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External-build/root/src/ExternalTarget-stamp/ExternalTarget-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ExternalTarget"
+		],
+		"name" : "ExternalTarget"
+	}
+}

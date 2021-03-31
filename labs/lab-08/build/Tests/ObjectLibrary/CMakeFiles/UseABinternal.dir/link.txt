@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/ABmain.dir/mainAB.c.o A/CMakeFiles/A.dir/a1.c.o A/CMakeFiles/A.dir/a2.c.o B/CMakeFiles/B.dir/b1.c.o B/CMakeFiles/B.dir/b2.c.o -o UseABinternal 

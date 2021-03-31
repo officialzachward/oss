@@ -1,0 +1,3 @@
+/home/zachary/oss/labs/lab-08/build/Tests/StringFileTest/CMakeFiles/edit_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/StringFileTest/CMakeFiles/rebuild_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/StringFileTest/CMakeFiles/StringFileTest.dir

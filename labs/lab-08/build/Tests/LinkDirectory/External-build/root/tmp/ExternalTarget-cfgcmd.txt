@@ -1,0 +1,1 @@
+cmd='/home/zachary/oss/labs/lab-08/build/bin/cmake;-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/bin;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/OutDir.dir/OutDir.c.o -o runtime/Debug/OutDir 

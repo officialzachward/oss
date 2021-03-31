@@ -1,0 +1,13 @@
+# Target labels
+ ExportLanguagesTest
+# Source files and their labels
+/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/CMakeFiles/ExportLanguagesTest
+/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/CMakeFiles/ExportLanguagesTest.rule
+/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/CMakeFiles/ExportLanguagesTest-complete.rule
+/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-build.rule
+/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-configure.rule
+/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-download.rule
+/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-install.rule
+/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-mkdir.rule
+/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-patch.rule
+/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-update.rule

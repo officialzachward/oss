@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFooStatic.a CMakeFiles/FooStatic.dir/FooStatic.c.o
+/usr/bin/ranlib libFooStatic.a

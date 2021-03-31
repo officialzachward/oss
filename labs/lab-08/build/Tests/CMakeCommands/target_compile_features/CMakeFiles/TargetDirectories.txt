@@ -1,0 +1,14 @@
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/c_target_compile_features_specific.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/c_lib_restrict_specific.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/c_target_compile_features_meta.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/c_restrict_user_specific.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/c_lib_restrict_meta.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/cxx_lib_auto_type_specific.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/c_restrict_user_meta.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/cxx_target_compile_features_specific.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/rebuild_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/edit_cache.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/cxx_lib_user_meta.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/cxx_target_compile_features_meta.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/cxx_lib_user_specific.dir
+/home/zachary/oss/labs/lab-08/build/Tests/CMakeCommands/target_compile_features/CMakeFiles/cxx_lib_auto_type_meta.dir

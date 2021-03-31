@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzoom.a CMakeFiles/zoom.dir/zoom.zzz.o
+/usr/bin/ranlib libzoom.a

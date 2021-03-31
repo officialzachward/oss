@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/COnly.dir/conly.c.o CMakeFiles/COnly.dir/foo.c.o -o COnly  -Wl,-rpath,/home/zachary/oss/labs/lab-08/build/Tests/COnly libtestc1.a libtestc2.so 

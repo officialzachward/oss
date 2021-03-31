@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/SetLang.dir/bar.c.o -o SetLang  libfoo.a libzoom.a 

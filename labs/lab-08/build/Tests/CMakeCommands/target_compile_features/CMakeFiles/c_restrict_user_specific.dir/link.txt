@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/c_restrict_user_specific.dir/restrict_user.c.o -o c_restrict_user_specific  libc_lib_restrict_specific.a 

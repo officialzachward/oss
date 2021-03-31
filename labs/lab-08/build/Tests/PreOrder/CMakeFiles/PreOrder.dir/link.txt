@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/PreOrder.dir/simple.o -o PreOrder  Library/libsimpleLib.a 

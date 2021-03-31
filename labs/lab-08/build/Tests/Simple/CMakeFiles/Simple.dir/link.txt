@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Simple.dir/simple.cxx.o -o Simple  libsimpleLib.a 

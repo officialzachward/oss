@@ -1,0 +1,504 @@
+[  1%] Built target cmsys_c
+[  2%] Built target cmsysTestSharedForward
+[  4%] Built target cmsys
+[  5%] Built target cmsysTestsCxx
+[  5%] Built target cmsysTestProcess
+[  5%] Built target cmsysTestsC
+[  5%] Built target testConsoleBufChild
+[  5%] Built target cmsysTestDynload
+[  5%] Built target cmstd
+[  6%] Built target kwiml_test
+[  7%] Built target cmlibrhash
+[  8%] Built target cmzlib
+[ 10%] Built target cmnghttp2
+[ 24%] Built target cmcurl
+[ 24%] Built target curltest
+[ 25%] Built target cmexpat
+[ 26%] Built target cmbzip2
+[ 29%] Built target cmzstd
+[ 36%] Built target cmliblzma
+[ 47%] Built target cmlibarchive
+[ 47%] Built target cmjsoncpp
+[ 50%] Built target cmlibuv
+[ 54%] Built target cmForm
+Scanning dependencies of target CMakeLib
+[ 54%] Building CXX object Source/CMakeFiles/CMakeLib.dir/LexerParser/cmCommandArgumentLexer.cxx.o
+[ 54%] Building CXX object Source/CMakeFiles/CMakeLib.dir/LexerParser/cmCommandArgumentParser.cxx.o
+[ 54%] Building CXX object Source/CMakeFiles/CMakeLib.dir/LexerParser/cmDependsJavaLexer.cxx.o
+[ 54%] Building CXX object Source/CMakeFiles/CMakeLib.dir/LexerParser/cmDependsJavaParser.cxx.o
+[ 54%] Building CXX object Source/CMakeFiles/CMakeLib.dir/LexerParser/cmExprLexer.cxx.o
+[ 54%] Building CXX object Source/CMakeFiles/CMakeLib.dir/LexerParser/cmExprParser.cxx.o
+[ 54%] Building CXX object Source/CMakeFiles/CMakeLib.dir/LexerParser/cmFortranLexer.cxx.o
+[ 54%] Building CXX object Source/CMakeFiles/CMakeLib.dir/LexerParser/cmFortranParser.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAffinity.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmArchiveWrite.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmArgumentParser.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBase32.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsLinker.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsLinuxELFGetRuntimeDependenciesTool.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsLinuxELFLinker.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsLinuxELFObjdumpGetRuntimeDependenciesTool.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsMacOSMachOGetRuntimeDependenciesTool.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsMacOSMachOLinker.cxx.o
+[ 55%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsMacOSMachOOToolGetRuntimeDependenciesTool.cxx.o
+[ 56%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsWindowsPEDumpbinGetRuntimeDependenciesTool.cxx.o
+[ 56%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsWindowsPEGetRuntimeDependenciesTool.cxx.o
+[ 56%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsWindowsPELinker.cxx.o
+[ 56%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBinUtilsWindowsPEObjdumpGetRuntimeDependenciesTool.cxx.o
+[ 56%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCacheManager.cxx.o
+[ 56%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCLocaleEnvironmentScope.cxx.o
+[ 56%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCMakePath.cxx.o
+[ 56%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCMakePresetsFile.cxx.o
+[ 56%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCMakePresetsFileReadJSON.cxx.o
+[ 56%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCommandArgumentParserHelper.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCommonTargetGenerator.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmComputeComponentGraph.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmComputeLinkDepends.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmComputeLinkInformation.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmComputeTargetDepends.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmConsoleBuf.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCPackPropertiesGenerator.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCryptoHash.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCurl.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCustomCommand.cxx.o
+[ 57%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCustomCommandGenerator.cxx.o
+[ 58%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCustomCommandLines.cxx.o
+[ 58%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDefinitions.cxx.o
+[ 58%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDepends.cxx.o
+[ 58%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDependsC.cxx.o
+[ 58%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDependsFortran.cxx.o
+[ 58%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDependsJava.cxx.o
+[ 58%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDependsJavaParserHelper.cxx.o
+[ 58%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDependsCompiler.cxx.o
+[ 58%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDocumentation.cxx.o
+[ 58%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDocumentationFormatter.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDocumentationSection.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDynamicLoader.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmELF.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExprParserHelper.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExportBuildAndroidMKGenerator.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExportBuildFileGenerator.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExportFileGenerator.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExportInstallAndroidMKGenerator.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExportInstallFileGenerator.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExportTryCompileFileGenerator.cxx.o
+[ 59%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExportSet.cxx.o
+[ 60%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExternalMakefileProjectGenerator.cxx.o
+[ 60%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExtraCodeBlocksGenerator.cxx.o
+[ 60%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExtraCodeLiteGenerator.cxx.o
+[ 60%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExtraEclipseCDT4Generator.cxx.o
+[ 60%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExtraKateGenerator.cxx.o
+[ 60%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExtraSublimeTextGenerator.cxx.o
+[ 60%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileAPI.cxx.o
+[ 60%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileAPICache.cxx.o
+[ 60%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileAPICodemodel.cxx.o
+[ 60%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileAPICMakeFiles.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileAPIToolchains.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileCopier.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileInstaller.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileLock.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileLockPool.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileLockResult.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFilePathChecksum.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileTime.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileTimeCache.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileTimes.cxx.o
+[ 61%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFortranParserImpl.cxx.o
+[ 62%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFSPermissions.cxx.o
+[ 62%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGccDepfileReader.cxx.o
+[ 62%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGeneratedFileStream.cxx.o
+[ 62%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGeneratorExpressionContext.cxx.o
+[ 62%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGeneratorExpressionDAGChecker.cxx.o
+[ 62%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGeneratorExpressionEvaluationFile.cxx.o
+[ 62%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGeneratorExpressionEvaluator.cxx.o
+[ 62%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGeneratorExpressionLexer.cxx.o
+[ 62%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGeneratorExpressionNode.cxx.o
+[ 62%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGeneratorExpressionParser.cxx.o
+[ 63%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGeneratorExpression.cxx.o
+[ 63%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGeneratorTarget.cxx.o
+[ 63%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLinkItemGraphVisitor.cxx.o
+[ 63%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGlobalCommonGenerator.cxx.o
+[ 63%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGlobalGenerator.cxx.o
+[ 63%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGlobalUnixMakefileGenerator3.cxx.o
+[ 63%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGlobVerificationManager.cxx.o
+[ 63%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGraphVizWriter.cxx.o
+[ 63%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallGenerator.cxx.o
+[ 64%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallExportGenerator.cxx.o
+[ 64%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstalledFile.cxx.o
+[ 64%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallFilesGenerator.cxx.o
+[ 64%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallScriptGenerator.cxx.o
+[ 64%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallSubdirectoryGenerator.cxx.o
+[ 64%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallTargetGenerator.cxx.o
+[ 64%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallDirectoryGenerator.cxx.o
+[ 64%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLDConfigLDConfigTool.cxx.o
+[ 64%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLinkItem.cxx.o
+[ 64%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLinkLineComputer.cxx.o
+[ 65%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLinkLineDeviceComputer.cxx.o
+[ 65%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmListFileCache.cxx.o
+[ 65%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLocalCommonGenerator.cxx.o
+[ 65%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLocalGenerator.cxx.o
+[ 65%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmRulePlaceholderExpander.cxx.o
+[ 65%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLocalUnixMakefileGenerator3.cxx.o
+[ 65%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMakefile.cxx.o
+[ 65%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMakefileTargetGenerator.cxx.o
+[ 65%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMakefileExecutableTargetGenerator.cxx.o
+[ 65%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMakefileLibraryTargetGenerator.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMakefileProfilingData.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMakefileUtilityTargetGenerator.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMessenger.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMSVC60LinkLineComputer.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmOSXBundleGenerator.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmOutputConverter.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmNewLineStyle.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmOrderDirectories.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmPolicies.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmProcessOutput.cxx.o
+[ 66%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmProcessTools.cxx.o
+[ 67%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmPropertyDefinition.cxx.o
+[ 67%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmPropertyMap.cxx.o
+[ 67%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmQtAutoGen.cxx.o
+[ 67%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmQtAutoGenerator.cxx.o
+[ 67%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmQtAutoGenGlobalInitializer.cxx.o
+[ 67%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmQtAutoGenInitializer.cxx.o
+[ 67%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmQtAutoMocUic.cxx.o
+[ 67%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmQtAutoRcc.cxx.o
+[ 67%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmRST.cxx.o
+[ 67%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmRuntimeDependencyArchive.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmScriptGenerator.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSourceFile.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSourceFileLocation.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSourceGroup.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmStandardLevelResolver.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmState.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmStateDirectory.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmStateSnapshot.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmStringAlgorithms.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSystemTools.cxx.o
+[ 68%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTarget.cxx.o
+[ 69%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetPropertyComputer.cxx.o
+[ 69%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTest.cxx.o
+[ 69%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTestGenerator.cxx.o
+[ 69%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTransformDepfile.cxx.o
+[ 69%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmUuid.cxx.o
+[ 69%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmUVHandlePtr.cxx.o
+[ 69%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmUVProcessChain.cxx.o
+[ 69%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmVariableWatch.cxx.o
+[ 69%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmWorkerPool.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmWorkingDirectory.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmXMLParser.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmXMLSafe.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmXMLWriter.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmake.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCommand.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCommands.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddCompileDefinitionsCommand.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddCompileOptionsCommand.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddLinkOptionsCommand.cxx.o
+[ 70%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddCustomCommandCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddCustomTargetCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddDefinitionsCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddDependenciesCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddExecutableCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddLibraryCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddSubDirectoryCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAddTestCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmAuxSourceDirectoryCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBreakCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBuildCommand.cxx.o
+[ 71%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmBuildNameCommand.cxx.o
+[ 72%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCMakeHostSystemInformationCommand.cxx.o
+[ 72%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCMakeLanguageCommand.cxx.o
+[ 72%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCMakeMinimumRequired.cxx.o
+[ 72%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCMakePathCommand.cxx.o
+[ 72%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCMakePolicyCommand.cxx.o
+[ 72%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmConditionEvaluator.cxx.o
+[ 72%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmConfigureFileCommand.cxx.o
+[ 72%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmContinueCommand.cxx.o
+[ 72%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCoreTryCompile.cxx.o
+[ 72%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmCreateTestSourceList.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmDefinePropertyCommand.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmEnableLanguageCommand.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmEnableTestingCommand.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExecProgramCommand.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExecuteProcessCommand.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExpandedCommandArgument.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExportCommand.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmExportLibraryDependenciesCommand.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFLTKWrapUICommand.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFileCommand.cxx.o
+[ 73%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFindBase.cxx.o
+[ 74%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFindCommon.cxx.o
+[ 74%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFindFileCommand.cxx.o
+[ 74%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFindLibraryCommand.cxx.o
+[ 74%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFindPackageCommand.cxx.o
+[ 74%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFindPathCommand.cxx.o
+[ 74%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFindProgramCommand.cxx.o
+[ 74%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmForEachCommand.cxx.o
+[ 74%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFunctionBlocker.cxx.o
+[ 74%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmFunctionCommand.cxx.o
+[ 74%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGetCMakePropertyCommand.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGetDirectoryPropertyCommand.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGetFilenameComponentCommand.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGetPropertyCommand.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGetSourceFilePropertyCommand.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGetTargetPropertyCommand.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGetTestPropertyCommand.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmHexFileConverter.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmIfCommand.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmIncludeCommand.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmIncludeDirectoryCommand.cxx.o
+[ 75%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmIncludeExternalMSProjectCommand.cxx.o
+[ 76%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmIncludeGuardCommand.cxx.o
+[ 76%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmIncludeRegularExpressionCommand.cxx.o
+[ 76%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallCommand.cxx.o
+[ 76%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallCommandArguments.cxx.o
+[ 76%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallFilesCommand.cxx.o
+[ 76%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallProgramsCommand.cxx.o
+[ 76%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmInstallTargetsCommand.cxx.o
+[ 76%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLinkDirectoriesCommand.cxx.o
+[ 76%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLinkLibrariesCommand.cxx.o
+[ 76%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmListCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLoadCacheCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLoadCommandCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMacroCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMakeDirectoryCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMarkAsAdvancedCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMathCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmMessageCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmOptionCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmOutputRequiredFilesCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmParseArgumentsCommand.cxx.o
+[ 77%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmPathLabel.cxx.o
+[ 78%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmProjectCommand.cxx.o
+[ 78%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmQTWrapCPPCommand.cxx.o
+[ 78%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmQTWrapUICommand.cxx.o
+[ 78%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmRemoveCommand.cxx.o
+[ 78%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmRemoveDefinitionsCommand.cxx.o
+[ 78%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmReturnCommand.cxx.o
+[ 78%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSearchPath.cxx.o
+[ 78%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSeparateArgumentsCommand.cxx.o
+[ 78%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSetCommand.cxx.o
+[ 78%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSetDirectoryPropertiesCommand.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSetPropertyCommand.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSetSourceFilesPropertiesCommand.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSetTargetPropertiesCommand.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSetTestsPropertiesCommand.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSiteNameCommand.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSourceGroupCommand.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmString.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmStringReplaceHelper.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmStringCommand.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSubcommandTable.cxx.o
+[ 79%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSubdirCommand.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmSubdirDependsCommand.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetCompileDefinitionsCommand.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetCompileFeaturesCommand.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetCompileOptionsCommand.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetIncludeDirectoriesCommand.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetLinkOptionsCommand.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetLinkDirectoriesCommand.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetLinkLibrariesCommand.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetPrecompileHeadersCommand.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetPropCommandBase.cxx.o
+[ 80%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTargetSourcesCommand.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTimestamp.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTryCompileCommand.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmTryRunCommand.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmUnsetCommand.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmUseMangledMesaCommand.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmUtilitySourceCommand.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmVariableRequiresCommand.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmVariableWatchCommand.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmWhileCommand.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmWriteFileCommand.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cm_codecvt.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/bindexplib.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGlobalWatcomWMakeGenerator.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGlobalGhsMultiGenerator.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLocalGhsMultiGenerator.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGhsMultiTargetGenerator.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGhsMultiGpj.cxx.o
+[ 81%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmScanDepFormat.cxx.o
+[ 82%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmGlobalNinjaGenerator.cxx.o
+[ 82%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmLocalNinjaGenerator.cxx.o
+[ 82%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmNinjaTargetGenerator.cxx.o
+[ 82%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmNinjaNormalTargetGenerator.cxx.o
+[ 82%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmNinjaUtilityTargetGenerator.cxx.o
+[ 82%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmNinjaLinkLineComputer.cxx.o
+[ 82%] Building CXX object Source/CMakeFiles/CMakeLib.dir/cmNinjaLinkLineDeviceComputer.cxx.o
+[ 82%] Linking CXX static library libCMakeLib.a
+[ 83%] Built target CMakeLib
+Scanning dependencies of target CPackLib
+[ 83%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackArchiveGenerator.cxx.o
+[ 83%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackComponentGroup.cxx.o
+[ 83%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackDebGenerator.cxx.o
+[ 83%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackExternalGenerator.cxx.o
+[ 83%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackGeneratorFactory.cxx.o
+[ 83%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackGenerator.cxx.o
+[ 83%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackLog.cxx.o
+[ 83%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackNSISGenerator.cxx.o
+[ 83%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackNuGetGenerator.cxx.o
+[ 84%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackSTGZGenerator.cxx.o
+[ 84%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/IFW/cmCPackIFWCommon.cxx.o
+[ 84%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/IFW/cmCPackIFWGenerator.cxx.o
+[ 84%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/IFW/cmCPackIFWInstaller.cxx.o
+[ 84%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/IFW/cmCPackIFWPackage.cxx.o
+[ 84%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/IFW/cmCPackIFWRepository.cxx.o
+[ 84%] Building CXX object Source/CMakeFiles/CPackLib.dir/CPack/cmCPackRPMGenerator.cxx.o
+[ 84%] Linking CXX static library libCPackLib.a
+[ 84%] Built target CPackLib
+Scanning dependencies of target cmake
+[ 84%] Building CXX object Source/CMakeFiles/cmake.dir/cmakemain.cxx.o
+[ 84%] Building CXX object Source/CMakeFiles/cmake.dir/cmcmd.cxx.o
+[ 84%] Linking CXX executable ../bin/cmake
+[ 84%] Built target cmake
+Scanning dependencies of target CTestLib
+[ 84%] Building CXX object Source/CMakeFiles/CTestLib.dir/cmCTest.cxx.o
+[ 84%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmProcess.cxx.o
+[ 85%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestBuildAndTestHandler.cxx.o
+[ 85%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestBuildCommand.cxx.o
+[ 85%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestBuildHandler.cxx.o
+[ 85%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestConfigureCommand.cxx.o
+[ 85%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestConfigureHandler.cxx.o
+[ 85%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestCoverageCommand.cxx.o
+[ 85%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestCoverageHandler.cxx.o
+[ 85%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestCurl.cxx.o
+[ 85%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmParseMumpsCoverage.cxx.o
+[ 85%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmParseCacheCoverage.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmParseGTMCoverage.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmParseJacocoCoverage.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmParseBlanketJSCoverage.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmParsePHPCoverage.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmParseCoberturaCoverage.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmParseDelphiCoverage.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestEmptyBinaryDirectoryCommand.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestGenericHandler.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestHandlerCommand.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestResourceAllocator.cxx.o
+[ 86%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestResourceSpec.cxx.o
+[ 87%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestLaunch.cxx.o
+[ 87%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestLaunchReporter.cxx.o
+[ 87%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestMemCheckCommand.cxx.o
+[ 87%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestMemCheckHandler.cxx.o
+[ 87%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestMultiProcessHandler.cxx.o
+[ 87%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestReadCustomFilesCommand.cxx.o
+[ 87%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestResourceGroupsLexerHelper.cxx.o
+[ 87%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestRunScriptCommand.cxx.o
+[ 87%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestRunTest.cxx.o
+[ 87%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestScriptHandler.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestSleepCommand.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestStartCommand.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestSubmitCommand.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestSubmitHandler.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestTestCommand.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestTestHandler.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestUpdateCommand.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestUpdateHandler.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestUploadCommand.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestUploadHandler.cxx.o
+[ 88%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestVC.cxx.o
+[ 89%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestGlobalVC.cxx.o
+[ 89%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestCVS.cxx.o
+[ 89%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestSVN.cxx.o
+[ 89%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestBZR.cxx.o
+[ 89%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestGIT.cxx.o
+[ 89%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestHG.cxx.o
+[ 89%] Building CXX object Source/CMakeFiles/CTestLib.dir/CTest/cmCTestP4.cxx.o
+[ 89%] Building CXX object Source/CMakeFiles/CTestLib.dir/LexerParser/cmCTestResourceGroupsLexer.cxx.o
+[ 89%] Linking CXX static library libCTestLib.a
+[ 89%] Built target CTestLib
+Scanning dependencies of target ctest
+[ 89%] Building CXX object Source/CMakeFiles/ctest.dir/ctest.cxx.o
+[ 90%] Linking CXX executable ../bin/ctest
+[ 90%] Built target ctest
+Scanning dependencies of target cpack
+[ 90%] Building CXX object Source/CMakeFiles/cpack.dir/CPack/cpack.cxx.o
+[ 90%] Linking CXX executable ../bin/cpack
+[ 90%] Built target cpack
+Scanning dependencies of target ccmake
+[ 90%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/ccmake.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesBoolWidget.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesCacheEntryComposite.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesColor.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesDummyWidget.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesFilePathWidget.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesForm.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesLabelWidget.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesLongMessageForm.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesMainForm.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesOptionsWidget.cxx.o
+[ 91%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesPathWidget.cxx.o
+[ 92%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesStringWidget.cxx.o
+[ 92%] Building CXX object Source/CursesDialog/CMakeFiles/ccmake.dir/cmCursesWidget.cxx.o
+[ 92%] Linking CXX executable ../../bin/ccmake
+[ 92%] Built target ccmake
+[ 92%] Built target testUVProcessChainHelper
+Scanning dependencies of target CMakeLibTests
+[ 92%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testArgumentParser.cxx.o
+[ 92%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testCTestResourceAllocator.cxx.o
+[ 92%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testCTestResourceSpec.cxx.o
+[ 92%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testCTestResourceGroups.cxx.o
+[ 92%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testGccDepfileReader.cxx.o
+[ 92%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testGeneratedFileStream.cxx.o
+[ 92%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testRST.cxx.o
+[ 92%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testRange.cxx.o
+[ 92%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testString.cxx.o
+[ 93%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testStringAlgorithms.cxx.o
+[ 93%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testSystemTools.cxx.o
+[ 93%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testXMLParser.cxx.o
+[ 93%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testXMLSafe.cxx.o
+[ 93%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testFindPackageCommand.cxx.o
+[ 93%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testUVProcessChain.cxx.o
+[ 93%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testUVRAII.cxx.o
+[ 93%] Building CXX object Tests/CMakeLib/CMakeFiles/CMakeLibTests.dir/testUVStreambuf.cxx.o
+[ 93%] Linking CXX executable CMakeLibTests
+[ 95%] Built target CMakeLibTests
+[ 95%] Built target testEncoding
+Scanning dependencies of target runcompilecommands
+[ 96%] Building CXX object Tests/CMakeLib/CMakeFiles/runcompilecommands.dir/run_compile_commands.cxx.o
+[ 96%] Linking CXX executable runcompilecommands
+[ 96%] Built target runcompilecommands
+Scanning dependencies of target testAffinity
+[ 96%] Building CXX object Tests/CMakeLib/CMakeFiles/testAffinity.dir/testAffinity.cxx.o
+[ 96%] Linking CXX executable testAffinity
+[ 96%] Built target testAffinity
+Scanning dependencies of target pseudo_purify
+[ 96%] Building CXX object Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_purify.dir/ret0.cxx.o
+[ 97%] Linking CXX executable purify
+[ 97%] Built target pseudo_purify
+Scanning dependencies of target memcheck_fail
+[ 97%] Building CXX object Tests/CMakeLib/PseudoMemcheck/CMakeFiles/memcheck_fail.dir/ret1.cxx.o
+[ 97%] Linking CXX executable memcheck_fail
+[ 97%] Built target memcheck_fail
+Scanning dependencies of target pseudo_BC
+[ 97%] Building CXX object Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_BC.dir/ret0.cxx.o
+[ 97%] Linking CXX executable BC
+[ 97%] Built target pseudo_BC
+Scanning dependencies of target pseudo_cuda-memcheck
+[ 97%] Building CXX object Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_cuda-memcheck.dir/ret0.cxx.o
+[ 97%] Linking CXX executable cuda-memcheck
+[ 97%] Built target pseudo_cuda-memcheck
+Scanning dependencies of target pseudo_valgrind
+[ 97%] Building CXX object Tests/CMakeLib/PseudoMemcheck/CMakeFiles/pseudo_valgrind.dir/ret0.cxx.o
+[ 97%] Linking CXX executable valgrind
+[ 97%] Built target pseudo_valgrind
+[ 97%] Built target pseudonl_BC
+[ 97%] Built target pseudonl_purify
+[ 97%] Built target pseudonl_valgrind
+[ 97%] Built target exit_code
+[ 97%] Built target color_warning
+[ 97%] Built target pseudo_emulator_custom_command_arg
+Scanning dependencies of target ctresalloc
+[ 97%] Building CXX object Tests/RunCMake/CMakeFiles/ctresalloc.dir/CTestResourceAllocation/ctresalloc.cxx.o
+[ 97%] Linking CXX executable ../../bin/ctresalloc
+[ 97%] Built target ctresalloc
+[ 97%] Built target fake_build_command
+[ 97%] Built target pseudo_llvm-rc
+[ 97%] Built target pseudo_cppcheck
+[ 98%] Built target print_stdin
+[ 98%] Built target pseudo_emulator_custom_command
+[100%] Built target pseudo_emulator
+[100%] Built target pseudo_cpplint
+[100%] Built target pseudo_tidy
+[100%] Built target pseudo_iwyu
+[100%] Built target foo

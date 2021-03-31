@@ -1,0 +1,2 @@
+/usr/bin/ar qc libExportLanguagesB.a CMakeFiles/ExportLanguagesB.dir/a.c.o CMakeFiles/ExportLanguagesA.dir/a.cxx.o
+/usr/bin/ranlib libExportLanguagesB.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUseCstaticObjs.a CMakeFiles/Cstatic.dir/c.c.o A/CMakeFiles/A.dir/a1.c.o A/CMakeFiles/A.dir/a2.c.o B/CMakeFiles/Bexport.dir/b1.c.o B/CMakeFiles/Bexport.dir/b2.c.o
+/usr/bin/ranlib libUseCstaticObjs.a

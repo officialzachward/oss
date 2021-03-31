@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/cxx_lib_user_specific.dir/lib_user.cpp.o -o cxx_lib_user_specific  libcxx_lib_auto_type_specific.a 

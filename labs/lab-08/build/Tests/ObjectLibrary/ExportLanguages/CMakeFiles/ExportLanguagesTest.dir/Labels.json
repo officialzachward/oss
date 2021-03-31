@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/CMakeFiles/ExportLanguagesTest"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/CMakeFiles/ExportLanguagesTest.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/CMakeFiles/ExportLanguagesTest-complete.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-build.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-configure.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-download.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-install.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-mkdir.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-patch.rule"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/ExportLanguages/ExportLanguagesTest-prefix/src/ExportLanguagesTest-stamp/ExportLanguagesTest-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ExportLanguagesTest"
+		],
+		"name" : "ExportLanguagesTest"
+	}
+}

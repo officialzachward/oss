@@ -1,0 +1,14 @@
+Upload files:
+0	Configure.xml
+1	Build.xml
+2	Test.xml
+3	Coverage.xml
+4	CoverageLog-0.xml
+5	Done.xml
+	Upload file: /home/zachary/oss/labs/lab-08/build/Testing/20210331-1733/Configure.xml to zachary-Blade___Linux-c++___20210331-1733-Experimental___XML___Configure.xml
+	Upload file: /home/zachary/oss/labs/lab-08/build/Testing/20210331-1733/Build.xml to zachary-Blade___Linux-c++___20210331-1733-Experimental___XML___Build.xml
+	Upload file: /home/zachary/oss/labs/lab-08/build/Testing/20210331-1733/Test.xml to zachary-Blade___Linux-c++___20210331-1733-Experimental___XML___Test.xml
+	Upload file: /home/zachary/oss/labs/lab-08/build/Testing/20210331-1733/Coverage.xml to zachary-Blade___Linux-c++___20210331-1733-Experimental___XML___Coverage.xml
+	Upload file: /home/zachary/oss/labs/lab-08/build/Testing/20210331-1733/CoverageLog-0.xml to zachary-Blade___Linux-c++___20210331-1733-Experimental___XML___CoverageLog-0.xml
+	Upload file: /home/zachary/oss/labs/lab-08/build/Testing/20210331-1733/Done.xml to zachary-Blade___Linux-c++___20210331-1733-Experimental___XML___Done.xml
+   Submission successful

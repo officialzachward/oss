@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/myexe.dir/myexe.c.o -o /home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/bin/LinkDirectory   -L../lib  -L/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External/lib  -Wl,-rpath,../lib:/home/zachary/oss/labs/lab-08/build/Tests/LinkDirectory/External/lib -lmylibA -lmylibB 

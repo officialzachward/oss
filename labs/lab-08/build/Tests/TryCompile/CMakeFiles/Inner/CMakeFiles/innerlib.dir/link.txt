@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinnerlib.a CMakeFiles/innerlib.dir/innerlib.c.o
+/usr/bin/ranlib libinnerlib.a

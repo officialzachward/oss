@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/LinkLanguage.dir/LinkLanguage.c.o -o LinkLanguage  libfoo.a 

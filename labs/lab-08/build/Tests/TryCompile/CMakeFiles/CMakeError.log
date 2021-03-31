@@ -203,3 +203,63 @@ make: *** [Makefile:127: cmTC_9f4a1/fast] Error 2
 
 Source file was:
 int main() { return 0; }
+Performing C SOURCE FILE Test C_BOGUS_FLAG failed with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_66f8a/fast && /usr/bin/make  -f CMakeFiles/cmTC_66f8a.dir/build.make CMakeFiles/cmTC_66f8a.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_66f8a.dir/src.c.o
+/usr/bin/cc -DC_BOGUS_FLAG  ---_this_is_not_a_flag_ -o CMakeFiles/cmTC_66f8a.dir/src.c.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '---_this_is_not_a_flag_'
+make[1]: *** [CMakeFiles/cmTC_66f8a.dir/build.make:78: CMakeFiles/cmTC_66f8a.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_66f8a/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_BOGUS_FLAG failed with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_fd3ed/fast && /usr/bin/make  -f CMakeFiles/cmTC_fd3ed.dir/build.make CMakeFiles/cmTC_fd3ed.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_fd3ed.dir/src.cxx.o
+/usr/bin/c++ -DCXX_BOGUS_FLAG  ---_this_is_not_a_flag_ -o CMakeFiles/cmTC_fd3ed.dir/src.cxx.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '---_this_is_not_a_flag_'
+make[1]: *** [CMakeFiles/cmTC_fd3ed.dir/build.make:78: CMakeFiles/cmTC_fd3ed.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_fd3ed/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_BOGUS_FLAG failed with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_38935/fast && /usr/bin/make  -f CMakeFiles/cmTC_38935.dir/build.make CMakeFiles/cmTC_38935.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_38935.dir/src.c.o
+/usr/bin/cc -DC_BOGUS_FLAG  ---_this_is_not_a_flag_ -o CMakeFiles/cmTC_38935.dir/src.c.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '---_this_is_not_a_flag_'
+make[1]: *** [CMakeFiles/cmTC_38935.dir/build.make:78: CMakeFiles/cmTC_38935.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_38935/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_BOGUS_FLAG failed with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_dbe56/fast && /usr/bin/make  -f CMakeFiles/cmTC_dbe56.dir/build.make CMakeFiles/cmTC_dbe56.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_dbe56.dir/src.cxx.o
+/usr/bin/c++ -DCXX_BOGUS_FLAG  ---_this_is_not_a_flag_ -o CMakeFiles/cmTC_dbe56.dir/src.cxx.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '---_this_is_not_a_flag_'
+make[1]: *** [CMakeFiles/cmTC_dbe56.dir/build.make:78: CMakeFiles/cmTC_dbe56.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_dbe56/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }

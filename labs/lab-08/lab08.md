@@ -28,4 +28,4 @@ we fail this Copyright test.
 ![fail](/labs/lab-08/testerror.png)  
 
 **Checkpoint 4**  
-https://github.com/officialzachward/CMakeCopy
+[Repository](https://github.com/officialzachward/CMakeCopy)

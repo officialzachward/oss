@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/testConsoleBufChild.dir/testConsoleBufChild.cxx.o  -o testConsoleBufChild  libcmsys.a -ldl 

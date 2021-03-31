@@ -1,0 +1,121 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/ProcessUNIX.c"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/Base64.c"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/EncodingC.c"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/MD5.c"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/Terminal.c"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/System.c"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/String.c"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/Configure.h"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/SharedForward.h"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/Process.h"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/Base64.h"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/Encoding.h"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/MD5.h"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/Terminal.h"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/System.h"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/String.h"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/Directory.cxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/Directory.hxx"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/DynamicLoader.cxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/DynamicLoader.hxx"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/EncodingCXX.cxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/Encoding.hxx"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/Glob.cxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/Glob.hxx"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/RegularExpression.cxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/RegularExpression.hxx"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/SystemTools.cxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/SystemTools.hxx"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/CommandLineArguments.cxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/CommandLineArguments.hxx"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/FStream.cxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/FStream.hxx"
+		},
+		{
+			"file" : "/home/zachary/cmake/Source/kwsys/SystemInformation.cxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/SystemInformation.hxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/ConsoleBuf.hxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/Configure.hxx"
+		},
+		{
+			"file" : "/home/zachary/oss/labs/lab-08/build/Source/cmsys/String.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [],
+		"name" : "cmsys"
+	}
+}

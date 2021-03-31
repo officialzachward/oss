@@ -1,0 +1,17 @@
+# Source files and their labels
+/home/zachary/cmake/Source/kwsys/ProcessUNIX.c
+/home/zachary/cmake/Source/kwsys/Base64.c
+/home/zachary/cmake/Source/kwsys/EncodingC.c
+/home/zachary/cmake/Source/kwsys/MD5.c
+/home/zachary/cmake/Source/kwsys/Terminal.c
+/home/zachary/cmake/Source/kwsys/System.c
+/home/zachary/cmake/Source/kwsys/String.c
+/home/zachary/oss/labs/lab-08/build/Source/cmsys/Configure.h
+/home/zachary/oss/labs/lab-08/build/Source/cmsys/SharedForward.h
+/home/zachary/oss/labs/lab-08/build/Source/cmsys/Process.h
+/home/zachary/oss/labs/lab-08/build/Source/cmsys/Base64.h
+/home/zachary/oss/labs/lab-08/build/Source/cmsys/Encoding.h
+/home/zachary/oss/labs/lab-08/build/Source/cmsys/MD5.h
+/home/zachary/oss/labs/lab-08/build/Source/cmsys/Terminal.h
+/home/zachary/oss/labs/lab-08/build/Source/cmsys/System.h
+/home/zachary/oss/labs/lab-08/build/Source/cmsys/String.h

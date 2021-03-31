@@ -19,4 +19,10 @@ and a failed copyright test (copyright expires in 2020 but its 2021).
 The main concern is the copyright failure.  
 
 Experimental Dashboard:  
-![build](/labs/lab-08/build.png)
+![build](/labs/lab-08/build.png)  
+
+**Checkpoint 3**  
+Looking at the tests log in the console, we are told "The following tests FAILED: 25 - CMake.Copyright (Failed)."  
+It appears that because this modded copyright expires in 2020, unlike the last copyright, which was until 2021,
+we fail this Copyright test.  
+![fail](/labs/lab-08/testerror.png)

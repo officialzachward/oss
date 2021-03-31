@@ -25,4 +25,6 @@ Experimental Dashboard:
 Looking at the tests log in the console, we are told "The following tests FAILED: 25 - CMake.Copyright (Failed)."  
 It appears that because this modded copyright expires in 2020, unlike the last copyright, which was until 2021,
 we fail this Copyright test.  
-![fail](/labs/lab-08/testerror.png)
+![fail](/labs/lab-08/testerror.png)  
+
+**Checkpoint 4**  

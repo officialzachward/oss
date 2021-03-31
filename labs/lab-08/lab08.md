@@ -28,4 +28,10 @@ we fail this Copyright test.
 ![fail](/labs/lab-08/testerror.png)  
 
 **Checkpoint 4**  
-[Repository](https://github.com/officialzachward/CMakeCopy)
+[Repository](https://github.com/officialzachward/CMakeCopy)  
+
+My new test addition:  
+![newtest](/labs/lab-08/newtest.png)  
+
+Workflows (initial PR failed, but I fixed the tests)  
+![workflows](/labs/lab-08/workflows.png)  

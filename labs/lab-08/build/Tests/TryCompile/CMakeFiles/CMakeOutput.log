@@ -558,3 +558,33 @@ make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile
 
 Source file was:
 int main(void) { return 0; }
+Performing C SOURCE FILE Test C_STRICT_PROTOTYPES succeeded with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_7a1c4/fast && /usr/bin/make  -f CMakeFiles/cmTC_7a1c4.dir/build.make CMakeFiles/cmTC_7a1c4.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7a1c4.dir/src.c.o
+/usr/bin/cc -DC_STRICT_PROTOTYPES  -Werror -Wstrict-prototypes -o CMakeFiles/cmTC_7a1c4.dir/src.c.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_7a1c4
+/home/zachary/oss/labs/lab-08/build/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7a1c4.dir/link.txt --verbose=1
+/usr/bin/cc -rdynamic CMakeFiles/cmTC_7a1c4.dir/src.c.o -o cmTC_7a1c4 
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_STRICT_PROTOTYPES succeeded with the following output:
+Change Dir: /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_7296b/fast && /usr/bin/make  -f CMakeFiles/cmTC_7296b.dir/build.make CMakeFiles/cmTC_7296b.dir/build
+make[1]: Entering directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7296b.dir/src.c.o
+/usr/bin/cc -DC_STRICT_PROTOTYPES  -Werror -Wstrict-prototypes -o CMakeFiles/cmTC_7296b.dir/src.c.o -c /home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_7296b
+/home/zachary/oss/labs/lab-08/build/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7296b.dir/link.txt --verbose=1
+/usr/bin/cc -rdynamic CMakeFiles/cmTC_7296b.dir/src.c.o -o cmTC_7296b 
+make[1]: Leaving directory '/home/zachary/oss/labs/lab-08/build/Tests/TryCompile/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }

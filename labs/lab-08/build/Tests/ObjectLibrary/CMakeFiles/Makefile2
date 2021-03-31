@@ -190,8 +190,8 @@ Transitive/clean: Transitive/CMakeFiles/FooStatic.dir/clean
 # Target rules for target CMakeFiles/UseABstaticObjs.dir
 
 # All Build rule for target.
-CMakeFiles/UseABstaticObjs.dir/all: CMakeFiles/ABstatic.dir/all
 CMakeFiles/UseABstaticObjs.dir/all: CMakeFiles/UseABstatic.dir/all
+CMakeFiles/UseABstaticObjs.dir/all: CMakeFiles/ABstatic.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/UseABstaticObjs.dir/build.make CMakeFiles/UseABstaticObjs.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/UseABstaticObjs.dir/build.make CMakeFiles/UseABstaticObjs.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/CMakeFiles --progress-num=40 "Built target UseABstaticObjs"
@@ -536,8 +536,8 @@ CMakeFiles/ABshared.dir/clean:
 # Target rules for target CMakeFiles/UseCstaticObjs.dir
 
 # All Build rule for target.
-CMakeFiles/UseCstaticObjs.dir/all: A/CMakeFiles/A.dir/all
 CMakeFiles/UseCstaticObjs.dir/all: CMakeFiles/Cstatic.dir/all
+CMakeFiles/UseCstaticObjs.dir/all: A/CMakeFiles/A.dir/all
 CMakeFiles/UseCstaticObjs.dir/all: B/CMakeFiles/Bexport.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/UseCstaticObjs.dir/build.make CMakeFiles/UseCstaticObjs.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/UseCstaticObjs.dir/build.make CMakeFiles/UseCstaticObjs.dir/build
@@ -564,10 +564,10 @@ CMakeFiles/UseCstaticObjs.dir/clean:
 # Target rules for target CMakeFiles/UseABinternal.dir
 
 # All Build rule for target.
-CMakeFiles/UseABinternal.dir/all: A/CMakeFiles/A.dir/all
-CMakeFiles/UseABinternal.dir/all: B/CMakeFiles/B.dir/all
 CMakeFiles/UseABinternal.dir/all: CMakeFiles/UseABinternalDep.dir/all
 CMakeFiles/UseABinternal.dir/all: CMakeFiles/ABmain.dir/all
+CMakeFiles/UseABinternal.dir/all: A/CMakeFiles/A.dir/all
+CMakeFiles/UseABinternal.dir/all: B/CMakeFiles/B.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/UseABinternal.dir/build.make CMakeFiles/UseABinternal.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/UseABinternal.dir/build.make CMakeFiles/UseABinternal.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/Tests/ObjectLibrary/CMakeFiles --progress-num=35 "Built target UseABinternal"

@@ -110,8 +110,8 @@ CMakeFiles/testCModule.dir/clean:
 # Target rules for target CMakeFiles/COnly.dir
 
 # All Build rule for target.
-CMakeFiles/COnly.dir/all: CMakeFiles/testc1.dir/all
 CMakeFiles/COnly.dir/all: CMakeFiles/testc2.dir/all
+CMakeFiles/COnly.dir/all: CMakeFiles/testc1.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/COnly.dir/build.make CMakeFiles/COnly.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/COnly.dir/build.make CMakeFiles/COnly.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/Tests/COnly/CMakeFiles --progress-num=1,2,3 "Built target COnly"

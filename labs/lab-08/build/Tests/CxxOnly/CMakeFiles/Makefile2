@@ -110,8 +110,8 @@ CMakeFiles/testCxxModule.dir/clean:
 # Target rules for target CMakeFiles/CxxOnly.dir
 
 # All Build rule for target.
-CMakeFiles/CxxOnly.dir/all: CMakeFiles/testcxx1.my.dir/all
 CMakeFiles/CxxOnly.dir/all: CMakeFiles/testcxx2.dir/all
+CMakeFiles/CxxOnly.dir/all: CMakeFiles/testcxx1.my.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CxxOnly.dir/build.make CMakeFiles/CxxOnly.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CxxOnly.dir/build.make CMakeFiles/CxxOnly.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zachary/oss/labs/lab-08/build/Tests/CxxOnly/CMakeFiles --progress-num=1,2 "Built target CxxOnly"

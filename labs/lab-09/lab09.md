@@ -1,12 +1,12 @@
-#Lab 09 - Virtualization (Zachary Ward)
+Lab 09 - Virtualization (Zachary Ward)
 ---------------------------------------------------------
 
-#Example 0  
+# Example 0  
 
-#Example 1  
+# Example 1  
 
-#Example 2  
+# Example 2  
 
-#Example 3  
+# Example 3  
 
-#Example 4  
+# Example 4  

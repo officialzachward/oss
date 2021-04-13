@@ -1,5 +1,8 @@
 # Lab 10 - Databases ( MongoDB )  
 
+Note: I alternated between WSL and Powershell during this lab,
+hence the different terminals windows.
+
 **Checkpoint 1**  
 ![check1](/labs/lab-10/checkpoint1.png)  
 

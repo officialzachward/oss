@@ -47,4 +47,31 @@ print("find WORD=Computers record =")
 pprint.pprint(defi.find_one({"word": "Computers"}))
 ```  
 Output:  
-![output](/labs/lab-10/check4output.png)
+![output](/labs/lab-10/check4output.png)  
+
+**Checkpoint 5**  
+```
+from pymongo import MongoClient
+import random
+import datetime
+
+client = MongoClient()
+
+
+def random_word_requester():
+    '''
+    This function should return a random word and its definition and also
+    log in the MongoDB database the timestamp that it was accessed.
+    '''
+    definitions = client.mongodb_lab.definitions
+    seed = random.randint(0, definitions.find().count())
+    word = list(definitions.find())[seed]
+    accessed_at = datetime.datetime.utcnow().isoformat()
+    definitions.update_one({'word': word['word']}, {'$push': {'dates': accessed_at}})
+    return definitions.find_one({'word': word['word']})
+
+
+if __name__ == '__main__':
+    print(random_word_requester())
+    ```
+

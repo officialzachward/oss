@@ -60,12 +60,16 @@ client = MongoClient()
 
 def random_word_requester():
     '''
-    This function should return a random word and its definition and also
-    log in the MongoDB database the timestamp that it was accessed.
+    return: a random word and its definition
+    effects: log in the MongoDB database the timestamp that it was accessed.
     '''
+    
+    # get definitions, generate seed and get random word
     definitions = client.mongodb_lab.definitions
     seed = random.randint(0, definitions.find().count())
     word = list(definitions.find())[seed]
+    
+    # for logging
     accessed_at = datetime.datetime.utcnow().isoformat()
     definitions.update_one({'word': word['word']}, {'$push': {'dates': accessed_at}})
     return definitions.find_one({'word': word['word']})

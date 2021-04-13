@@ -45,4 +45,6 @@ word_new = {"word": "Computers","definition": "Something to code on"}
 defi.insert_one(word_new)
 print("find WORD=Computers record =")
 pprint.pprint(defi.find_one({"word": "Computers"}))
-```
+```  
+Output:  
+![output](/labs/lab-10/check4output.png)

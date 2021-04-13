@@ -73,5 +73,7 @@ def random_word_requester():
 
 if __name__ == '__main__':
     print(random_word_requester())
-    ```
+    ```  
+Finding the duplicate entry:  
+![check5](/labs/lab-10/check5output.png)
 
